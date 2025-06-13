@@ -1,6 +1,8 @@
 name: Bot Discord 24/7
 
 on:
+  schedule:
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -15,5 +17,4 @@ jobs:
     - env:
         TOKEN: ${{ secrets.TOKEN }}
       run: |
-        ls -la
-        python main.py
+        timeout 21600 python main.py || true
