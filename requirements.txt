@@ -1,2 +1,4 @@
-discord.py
-asyncio
+discord.py>=2.0.0
+aiohttp
+requests
+pillow
