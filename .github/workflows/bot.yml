@@ -11,7 +11,7 @@ jobs:
     
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       
     - name: Setup Python
       uses: actions/setup-python@v4
@@ -19,13 +19,12 @@ jobs:
         python-version: '3.9'
         
     - name: Install dependencies
-      run: |
-        pip install -r requirements.txt
+      run: pip install -r requirements.txt
         
     - name: Run Discord Bot
       env:
         DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
       run: |
         ls -la
-        pwd
-        timeout 21000 python main.py || true
+        find . -name "main.py"
+        python main.py
