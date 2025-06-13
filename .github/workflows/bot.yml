@@ -2,8 +2,8 @@ name: Discord Bot 24/7
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    - cron: '0 */6 * * *'  # Cada 6 horas
+  workflow_dispatch:  # Ejecutar manualmente
 
 jobs:
   run-bot:
@@ -20,10 +20,19 @@ jobs:
         
     - name: Install dependencies
       run: |
-        pip install discord.py aiohttp pillow numpy
+        pip install -r requirements.txt
         
     - name: Run Discord Bot
       env:
         DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
       run: |
-        timeout 21000 python main.py || true
+        timeout 21000 python ./main.py || true
+        
+    - name: Post Setup Python
+      run: echo "Bot execution completed"
+      
+    - name: Post Checkout code
+      run: echo "Workflow finished"
+      
+    - name: Complete job
+      run: echo "Job completed successfully"
