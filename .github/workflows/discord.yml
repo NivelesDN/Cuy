@@ -13,7 +13,7 @@ jobs:
         python-version: '3.9'
     - run: pip install -r requirements.txt
     - env:
-        DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+        TOKEN: ${{ secrets.TOKEN }}
       run: |
         ls -la
         python main.py
