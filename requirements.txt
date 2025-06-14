@@ -5,3 +5,4 @@ aiosqlite
 requests
 Pillow
 python-dotenv
+Flask
