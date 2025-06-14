@@ -1,4 +1,6 @@
-discord.py>=2.0.0
+discord.py
 aiohttp
+numpy
+aiosqlite
 requests
-pillow
+Pillow
