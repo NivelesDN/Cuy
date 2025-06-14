@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # ==========================================================================
 #                    🛡️ BOT ANTIRAID CUY 🛡️
 #            Sistema de Protección Medieval para Discord
