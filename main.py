@@ -11046,7 +11046,6 @@ async def cleanup_task():
         registro_joins[guild_id] = [
             t for t in registro_joins[guild_id] 
             if (now.timestamp() - t) <= 10
-            
         ]
         
         if not registro_joins[guild_id]:
@@ -11056,8 +11055,12 @@ async def cleanup_task():
     for guild_id in list(infracciones_spam.keys()):
         for user_id in list(infracciones_spam[guild_id].keys()):
             if "last_infraction" in infracciones_spam[guild_id][user_id]:
-                if (now - infracciones_spam[guild_id][user_id]["last_infraction"]).total_seconds() > 21600:
-                    del infracciones_spam[guild_id][user_id]
+                if hasattr(infracciones_spam[guild_id][user_id]["last_infraction"], 'timestamp'):
+                    if (now.timestamp() - infracciones_spam[guild_id][user_id]["last_infraction"].timestamp()) > 21600:
+                        del infracciones_spam[guild_id][user_id]
+                else:
+                    if (now - infracciones_spam[guild_id][user_id]["last_infraction"]).total_seconds() > 21600:
+                        del infracciones_spam[guild_id][user_id]
         
         if not infracciones_spam[guild_id]:
             del infracciones_spam[guild_id]
@@ -11074,8 +11077,12 @@ async def cleanup_task():
     # Limpiar cooldowns de edición de canales (más de 1 hora)
     for guild_id in list(channel_edit_cooldown.keys()):
         for user_id in list(channel_edit_cooldown[guild_id].keys()):
-            if (now - channel_edit_cooldown[guild_id][user_id]).total_seconds() > 3600:  # 1 hora
-                del channel_edit_cooldown[guild_id][user_id]
+            if hasattr(channel_edit_cooldown[guild_id][user_id], 'timestamp'):
+                if (now.timestamp() - channel_edit_cooldown[guild_id][user_id].timestamp()) > 3600:
+                    del channel_edit_cooldown[guild_id][user_id]
+            else:
+                if (now - channel_edit_cooldown[guild_id][user_id]).total_seconds() > 3600:
+                    del channel_edit_cooldown[guild_id][user_id]
         
         if not channel_edit_cooldown[guild_id]:
             del channel_edit_cooldown[guild_id]
