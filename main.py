@@ -3751,7 +3751,7 @@ NARRACIONES_COMBATE = {
         
         "round2": "⚔️ **El {titulo_enano}** contraataca con el corazón herido con la furia de las comparaciones odiosas pero la conquista del **{armadura_humano}** forjada en dominación mundial hace que el ataque comparativo sea superado por la ambición infinita.\n\n⚔️ **Enano:** '¡Tienes la estatura élfica pero caminas como un ogro! ¡Eres una burla de la elegancia!'\n👨 **Humano:** 'Hemos perfeccionado lo que elfos y enanos dejaron incompleto con nuestra visión superior.'\n\n⚡ El enano descarga golpes furiosos comparando cada rasgo humano con su original élfico. El humano mantiene su ambición conquistadora despreciando las comparaciones primitivas.\n\n🩸 Los golpes enanos logran impactar pero la ambición mundial los absorbe como costos de conquista. El humano sonríe con superioridad racial.\n\n⚔️ El enano grita: '¡Tienes manos élficas pero las usas para la vulgaridad! ¡Los elfos las usan para el arte!'\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_enano}/{hp_total_enano}**\n**❤️ HP RESTANTE: {hp_restante_humano}/{hp_total_humano}**",
         
-        "round3": "🐺 En medio d�e la lucha sangrienta se escucha un rugido conquistador. **{mascota_humano}** entra al campo de batalla y ataca dominantemente al enano herido que se defiende comparando razas. El **{mascota_enano}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, dominación mundial contra comparaciones furiosas en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del humano y el enano continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_humano}/{hp_total_humano} vs {hp_restante_enano}/{hp_total_enano}**",
+        "round3": "🐺 En medio de la lucha sangrienta se escucha un rugido conquistador. **{mascota_humano}** entra al campo de batalla y ataca dominantemente al enano herido que se defiende comparando razas. El **{mascota_enano}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, dominación mundial contra comparaciones furiosas en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del humano y el enano continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_humano}/{hp_total_humano} vs {hp_restante_enano}/{hp_total_enano}**",
         
         "round4": "👨 **¡ROUND FINAL!** El enano decide poner fin a esta lucha.\n\n⚔️ **Enano:** '¡Eres el peor insulto a la raza élfica! ¡Un elfo deformado y sin alma!'\n👨 **Humano:** 'Somos la evolución final: la perfección de todas las razas en una sola forma superior.'\n\n⚡ Frotando su **{accesorio_enano}** se lanza contra el humano con furia comparativa final. El humano lo mira con ambición conquistadora absoluta y lanza su ataque mientras su **{accesorio_humano}** vibra por el éxtasis de la batalla.\n\n🩸 ¡CHOQUE FINAL! Ambos logran acertar un golpe crítico.\n\n🔥 El enano destroza el cráneo humano gritando que es una parodia élfica mientras el humano le arranca el corazón proclamando supremacía racial.\n\n**💥 DAÑO FINAL: {daño5} HP vs {daño6} HP**\n**❤️ HP FINALES: {hp_final_enano}/{hp_total_enano} vs {hp_final_humano}/{hp_total_humano}**",
         
@@ -3777,7 +3777,7 @@ NARRACIONES_COMBATE = {
         
         "round2": "⚔️ **El {titulo_enano}** contraataca marcado con la furia del tradicionalismo pero la innovación del **{armadura_humano}** mejorada con funcionalidad práctica hace que el ataque tradicional sea superado por la eficiencia moderna.\n\n⚔️ **Enano:** '¡Tienes la voz élfica pero la usas para gritar como bestia! ¡Los elfos cantan como ángeles!'\n👨 **Humano:** 'Mejoramos la musicalidad élfica haciéndola útil para la guerra y el comercio.'\n\n⚡ El enano descarga golpes tradicionalistas buscando preservar la pureza original. El humano mantiene su innovación adaptando cada ataque tradicional.\n\n🩸 Los golpes enanos logran impactar pero la innovación los convierte en mejoras. El humano evoluciona con cada golpe recibido.\n\n⚔️ El enano se exaspera: '¡Tienes movimientos élficos pero sin su gracia! ¡Pareces un elfo borracho!'\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_enano}/{hp_total_enano}**\n**❤️ HP RESTANTE: {hp_restante_humano}/{hp_total_humano}**",
         
-        "round3": "🐺 En medio de la lucha sangrienta se escucha un rug�ido innovador. **{mascota_humano}** entra al campo de batalla y ataca funcionalmente al enano marcado que se defiende tradicionalmente. El **{mascota_enano}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, funcionalidad innovadora contra tradicionalismo marcado en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del humano y el enano continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_humano}/{hp_total_humano} vs {hp_restante_enano}/{hp_total_enano}**",
+        "round3": "🐺 En medio de la lucha sangrienta se escucha un rugido innovador. **{mascota_humano}** entra al campo de batalla y ataca funcionalmente al enano marcado que se defiende tradicionalmente. El **{mascota_enano}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, funcionalidad innovadora contra tradicionalismo marcado en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del humano y el enano continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_humano}/{hp_total_humano} vs {hp_restante_enano}/{hp_total_enano}**",
         
         "round4": "👨 **¡ROUND FINAL!** El enano decide poner fin a esta lucha.\n\n⚔️ **Enano:** '¡Eres una profanación ambulante de todo lo que los elfos representan!'\n👨 **Humano:** 'Somos la versión mejorada: funcional, práctica y superior.'\n\n⚡ Frotando su **{accesorio_enano}** se lanza contra el humano con tradicionalismo final. El humano lo mira con innovación absoluta y lanza su ataque mientras su **{accesorio_humano}** late por el éxtasis de la batalla.\n\n🩸 ¡CHOQUE FINAL! Ambos logran acertar un golpe crítico.\n\n🔥 El enano preserva la tradición atravesando el corazón humano mientras el humano innova destruyendo el cráneo enano con eficiencia.\n\n**💥 DAÑO FINAL: {daño5} HP vs {daño6} HP**\n**❤️ HP FINALES: {hp_final_enano}/{hp_total_enano} vs {hp_final_humano}/{hp_total_humano}**",
         
@@ -3803,7 +3803,7 @@ NARRACIONES_COMBATE = {
         
         "round2": "⚔️ **El {titulo_enano}** contraataca con el cráneo abierto con la memoria de la perfección original pero la culminación del **{armadura_humano}** perfeccionada con evolución total hace que el ataque memorioso sea superado por la perfección lograda.\n\n⚔️ **Enano:** '*con el cerebro expuesto* ¡Los elfos... tenían... gracia divina! ¡Tú solo... tienes... ambición vulgar!'\n👨 **Humano:** 'Hemos logrado lo que elfos y enanos nunca pudieron: la perfección práctica y funcional.'\n\n⚡ El enano descarga golpes con el cerebro expuesto recordando la perfección élfica original. El humano mantiene su culminación demostrando superioridad lograda.\n\n🩸 Los golpes enanos logran impactar débilmente pero la perfección lograda los supera. El humano se siente validado como culminación.\n\n⚔️ El enano agoniza: '¡Los elfos... eran... arte puro! ¡Tú eres... copia... industrializada!'\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_enano}/{hp_total_enano}**\n**❤️ HP RESTANTE: {hp_restante_humano}/{hp_total_humano}**",
         
-        "round3": "🐺 En medio de la lucha sangrienta se escucha un rugido cu�lminante. **{mascota_humano}** entra al campo de batalla y ataca perfectamente al enano con el cráneo abierto que se defiende memoriosamente. El **{mascota_enano}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, perfección culminante contra memoria agonizante en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del humano y el enano continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_humano}/{hp_total_humano} vs {hp_restante_enano}/{hp_total_enano}**",
+        "round3": "🐺 En medio de la lucha sangrienta se escucha un rugido culminante. **{mascota_humano}** entra al campo de batalla y ataca perfectamente al enano con el cráneo abierto que se defiende memoriosamente. El **{mascota_enano}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, perfección culminante contra memoria agonizante en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del humano y el enano continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_humano}/{hp_total_humano} vs {hp_restante_enano}/{hp_total_enano}**",
         
         "round4": "👨 **¡ROUND FINAL!** El enano decide poner fin a esta lucha.\n\n⚔️ **Enano:** '*agonizando* ¡Por la memoria... de la perfección... élfica original!'\n👨 **Humano:** 'Somos la perfección final: la culminación de toda la evolución racial.'\n\n⚡ Frotando su **{accesorio_enano}** se lanza contra el humano con memoria final. El humano lo mira con culminación absoluta y lanza su ataque mientras su **{accesorio_humano}** resplandece por el éxtasis de la batalla.\n\n🩸 ¡CHOQUE FINAL! Ambos logran acertar un golpe crítico.\n\n🔥 El enano abraza al humano con su cerebro expuesto contaminándolo con memoria pura mientras el humano lo culmina con perfección evolutiva.\n\n**💥 DAÑO FINAL: {daño5} HP vs {daño6} HP**\n**❤️ HP FINALES: {hp_final_enano}/{hp_total_enano} vs {hp_final_humano}/{hp_total_humano}**",
         
@@ -3833,7 +3833,7 @@ NARRACIONES_COMBATE = {
         
         "round2": "💀 **El {titulo_no_muerto}** contraataca con el cráneo agrietado con la persistencia de los que no conocen dolor pero la furia del **{armadura_orco}** templada en sangre hirviente hace que el ataque frío sea absorbido por la rabia primitiva.\n\n💀 **No Muerto:** '...'\n🧌 **Orco:** '¡Maldita sea! ¡No gritas como deberías! ¡Te haré sangrar de verdad!'\n\n⚡ El no muerto descarga ataques gélidos buscando enfriar la sangre orca. El orco mantiene su furia hirviente resistiendo la frialdad mortal.\n\n🩸 Las garras necróticas logran impactar pero la sangre caliente las rechaza. El orco se enfurece más por la falta de dolor del enemigo.\n\n💀 El no muerto observa impasible mientras el orco se frustra por no poder causar sufrimiento genuino.\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_no_muerto}/{hp_total_no_muerto}**\n**❤️ HP RESTANTE: {hp_restante_orco}/{hp_total_orco}**",
         
-        "round3": "🐺 En medio de la lucha sangrienta se escucha un rugido� primitivo. **{mascota_orco}** entra al campo de batalla y ataca salvajemente al no muerto agrietado que se defiende fríamente. El **{mascota_no_muerto}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, salvajismo caliente contra frialdad putrefacta en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del orco y el no muerto continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_orco}/{hp_total_orco} vs {hp_restante_no_muerto}/{hp_total_no_muerto}**",
+        "round3": "🐺 En medio de la lucha sangrienta se escucha un rugido primitivo. **{mascota_orco}** entra al campo de batalla y ataca salvajemente al no muerto agrietado que se defiende fríamente. El **{mascota_no_muerto}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, salvajismo caliente contra frialdad putrefacta en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del orco y el no muerto continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_orco}/{hp_total_orco} vs {hp_restante_no_muerto}/{hp_total_no_muerto}**",
         
         "round4": "🧌 **¡ROUND FINAL!** El no muerto decide poner fin a esta lucha.\n\n💀 **No Muerto:** '...'\n🧌 **Orco:** '¡Cosa silenciosa del demonio! ¡Vas a morir gritando como todos!'\n\n⚡ Frotando su **{accesorio_no_muerto}** se lanza contra el orco con frialdad final. El orco lo mira con furia hirviente y lanza su ataque mientras su **{accesorio_orco}** late por el éxtasis de la batalla.\n\n🩸 ¡CHOQUE FINAL! Ambos logran acertar un golpe crítico.\n\n🔥 El no muerto congela la sangre orca con frialdad mortal mientras el orco le arranca la cabeza con furia primitiva.\n\n**💥 DAÑO FINAL: {daño5} HP vs {daño6} HP**\n**❤️ HP FINALES: {hp_final_no_muerto}/{hp_total_no_muerto} vs {hp_final_orco}/{hp_total_orco}**",
         
@@ -3859,7 +3859,7 @@ NARRACIONES_COMBATE = {
         
         "round2": "💀 **El {titulo_no_muerto}** contraataca con el cuello desgarrado con la corrupción de los putrefactos pero la vitalidad del **{armadura_orco}** templada en vida primitiva hace que el ataque corrupto sea resistido por la salud salvaje.\n\n💀 **No Muerto:** '...'\n🧌 **Orco:** '¡Tu podredumbre no puede corromper mi fuerza vital! ¡Soy demasiado salvaje para morir!'\n\n⚡ El no muerto descarga ataques corruptos buscando infectar la vitalidad orca. El orco mantiene su salud primitiva resistiendo la putrefacción mortal.\n\n🩸 Las garras putrefactas logran impactar pero la vitalidad salvaje las rechaza. El orco se siente más fuerte con cada ataque resistido.\n\n💀 El no muerto permanece silencioso mientras contempla como la vida primitiva resiste su corrupción ancestral.\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_no_muerto}/{hp_total_no_muerto}**\n**❤️ HP RESTANTE: {hp_restante_orco}/{hp_total_orco}**",
         
-        "round3": "🐺 En medio de la lucha sangrienta se escucha un rugido vital. **{mascota_orco}** entra al campo de batalla y ataca vigorosamente al no muerto desgarrado que se defiende putrefactamente. El **{mascota_no_muerto}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, vitalidad primitiva contra putrefacción silenciosa en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del orco �y el no muerto continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_orco}/{hp_total_orco} vs {hp_restante_no_muerto}/{hp_total_no_muerto}**",
+        "round3": "🐺 En medio de la lucha sangrienta se escucha un rugido vital. **{mascota_orco}** entra al campo de batalla y ataca vigorosamente al no muerto desgarrado que se defiende putrefactamente. El **{mascota_no_muerto}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, vitalidad primitiva contra putrefacción silenciosa en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del orco y el no muerto continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_orco}/{hp_total_orco} vs {hp_restante_no_muerto}/{hp_total_no_muerto}**",
         
         "round4": "🧌 **¡ROUND FINAL!** El no muerto decide poner fin a esta lucha.\n\n💀 **No Muerto:** '...'\n🧌 **Orco:** '¡Cosa putrefacta! ¡Mi vitalidad aplastará tu muerte ambulante!'\n\n⚡ Frotando su **{accesorio_no_muerto}** se lanza contra el orco con putrefacción final. El orco lo mira con vitalidad primitiva y lanza su ataque mientras su **{accesorio_orco}** resplandece por el éxtasis de la batalla.\n\n🩸 ¡CHOQUE FINAL! Ambos logran acertar un golpe crítico.\n\n🔥 El no muerto corrompe la vitalidad orca con putrefacción absoluta mientras el orco lo despedaza con fuerza vital pura.\n\n**💥 DAÑO FINAL: {daño5} HP vs {daño6} HP**\n**❤️ HP FINALES: {hp_final_no_muerto}/{hp_total_no_muerto} vs {hp_final_orco}/{hp_total_orco}**",
         
@@ -3887,7 +3887,7 @@ NARRACIONES_COMBATE = {
         
         "round3": "🐺 En medio de la lucha sangrienta se escucha una risa sádica. **{mascota_orco}** entra al campo de batalla y ataca cruelmente al no muerto tambaleante que se defiende rígidamente. El **{mascota_no_muerto}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, crueldad ágil contra rigidez tambaleante en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del orco y el no muerto continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_orco}/{hp_total_orco} vs {hp_restante_no_muerto}/{hp_total_no_muerto}**",
         
-        "round4": "🧌 **¡ROUND FINAL!** El no muerto decide poner fin a esta lucha.\n\n💀 **No Muerto:** '...'\n🧌 **Orco:** '¡Marioneta rota! ¡Voy a cortarte las cuerdas que te quedan!'\n\n⚡ Frotando su **{accesorio_no_muerto}** se lanza contra el orco con rigidez final. El orco lo mira con crueldad sádica y lanza su �ataque mientras su **{accesorio_orco}** vibra por el éxtasis de la batalla.\n\n🩸 ¡CHOQUE FINAL! Ambos logran acertar un golpe crítico.\n\n🔥 El no muerto abraza al orco con rigidez mortal mientras el orco lo despedaza con sadismo primitivo.\n\n**💥 DAÑO FINAL: {daño5} HP vs {daño6} HP**\n**❤️ HP FINALES: {hp_final_no_muerto}/{hp_total_no_muerto} vs {hp_final_orco}/{hp_total_orco}**",
+        "round4": "🧌 **¡ROUND FINAL!** El no muerto decide poner fin a esta lucha.\n\n💀 **No Muerto:** '...'\n🧌 **Orco:** '¡Marioneta rota! ¡Voy a cortarte las cuerdas que te quedan!'\n\n⚡ Frotando su **{accesorio_no_muerto}** se lanza contra el orco con rigidez final. El orco lo mira con crueldad sádica y lanza su ataque mientras su **{accesorio_orco}** vibra por el éxtasis de la batalla.\n\n🩸 ¡CHOQUE FINAL! Ambos logran acertar un golpe crítico.\n\n🔥 El no muerto abraza al orco con rigidez mortal mientras el orco lo despedaza con sadismo primitivo.\n\n**💥 DAÑO FINAL: {daño5} HP vs {daño6} HP**\n**❤️ HP FINALES: {hp_final_no_muerto}/{hp_total_no_muerto} vs {hp_final_orco}/{hp_total_orco}**",
         
         "round5_resurreccion": "💀 **¡RESURRECCIÓN!**\n\n🍃 El caído se alza una vez más con odio renovado por la **{posicion}**.\n\n🔥 **¡VENGANZA FINAL!** Su sed de sangre trasciende la muerte misma.\n\n😱 Con un último ataque devastador, destroza completamente a su enemigo.\n\n**💥 DAÑO FINAL: {daño_resurreccion} HP**\n**❤️ HP FINAL: {hp_final_definitivo}**"
     },
@@ -3915,7 +3915,7 @@ NARRACIONES_COMBATE = {
         
         "round4": "🧌 **¡ROUND FINAL!** El no muerto decide poner fin a esta lucha.\n\n💀 **No Muerto:** '...'\n🧌 **Orco:** '¡Muñones inútiles! ¡Voy a completar tu desmembramiento!'\n\n⚡ Frotando su **{accesorio_no_muerto}** se lanza contra el orco con persistencia final. El orco lo mira con sadismo demoniaco y lanza su ataque mientras su **{accesorio_orco}** late por el éxtasis de la batalla.\n\n🩸 ¡CHOQUE FINAL! Ambos logran acertar un golpe crítico.\n\n🔥 El no muerto abraza al orco con sus muñones arrastrándolo a la muerte mientras el orco lo despedaza completamente con crueldad final.\n\n**💥 DAÑO FINAL: {daño5} HP vs {daño6} HP**\n**❤️ HP FINALES: {hp_final_no_muerto}/{hp_total_no_muerto} vs {hp_final_orco}/{hp_total_orco}**",
         
-        "round5_resurreccion": "💀 **¡RESURRECCI�ÓN!**\n\n🍃 El caído se alza una vez más con odio renovado por la **{posicion}**.\n\n🔥 **¡VENGANZA FINAL!** Su sed de sangre trasciende la muerte misma.\n\n😱 Con un último ataque devastador, destroza completamente a su enemigo.\n\n**💥 DAÑO FINAL: {daño_resurreccion} HP**\n**❤️ HP FINAL: {hp_final_definitivo}**"
+        "round5_resurreccion": "💀 **¡RESURRECCIÓN!**\n\n🍃 El caído se alza una vez más con odio renovado por la **{posicion}**.\n\n🔥 **¡VENGANZA FINAL!** Su sed de sangre trasciende la muerte misma.\n\n😱 Con un último ataque devastador, destroza completamente a su enemigo.\n\n**💥 DAÑO FINAL: {daño_resurreccion} HP**\n**❤️ HP FINAL: {hp_final_definitivo}**"
     },
     
     # NARRACION 8 - NO MUERTO COMIENZA
@@ -3946,7 +3946,7 @@ NARRACIONES_COMBATE = {
     
     # NARRACION 10 - NO MUERTO COMIENZA
     {
-        "round1": "💀 **El guerrero {titulo_no_muert�o}** entra al campo de batalla con la inevitabilidad demoniaca de la muerte eterna, empuñando su **{arma_no_muerto}** con la certeza de quien siempre prevalece.\n\n💀 **No Muerto:** '...'\n🧌 **Orco:** 'Demonio inevitab le, tu muerte eterna va a encontrarse con mi vida eterna de violencia.'\n\n⚡ El no muerto lanza un corte inevitable directo al pecho orco. El orco se resiste violentamente y contraataca con vida agresiva.\n\n🩸 El **{titulo_no_muerto}** logró abrir una herida mortal en el pecho orco que no deja de sangrar. Sangre roja brota sin cesar mientras el orco siente la muerte acercarse.\n\n💀 El no muerto observa pacientemente como la vida orca se desvanece gota a gota sin prisa alguna.\n\n**💥 DAÑO INFLIGIDO: {daño1} HP**\n**❤️ HP RESTANTE: {hp_restante_no_muerto}/{hp_total_no_muerto}**\n**❤️ HP RESTANTE: {hp_restante_orco}/{hp_total_orco}**",
+        "round1": "💀 **El guerrero {titulo_no_muerto}** entra al campo de batalla con la inevitabilidad demoniaca de la muerte eterna, empuñando su **{arma_no_muerto}** con la certeza de quien siempre prevalece.\n\n💀 **No Muerto:** '...'\n🧌 **Orco:** 'Demonio inevitab le, tu muerte eterna va a encontrarse con mi vida eterna de violencia.'\n\n⚡ El no muerto lanza un corte inevitable directo al pecho orco. El orco se resiste violentamente y contraataca con vida agresiva.\n\n🩸 El **{titulo_no_muerto}** logró abrir una herida mortal en el pecho orco que no deja de sangrar. Sangre roja brota sin cesar mientras el orco siente la muerte acercarse.\n\n💀 El no muerto observa pacientemente como la vida orca se desvanece gota a gota sin prisa alguna.\n\n**💥 DAÑO INFLIGIDO: {daño1} HP**\n**❤️ HP RESTANTE: {hp_restante_no_muerto}/{hp_total_no_muerto}**\n**❤️ HP RESTANTE: {hp_restante_orco}/{hp_total_orco}**",
         
         "round2": "🧌 **El {titulo_orco}** contraataca desangrándose con la resistencia vital de los moribundos pero la inevitabilidad del **{armadura_no_muerto}** forjada en certeza mortal hace que el ataque resistente sea absorbido por el destino final.\n\n🧌 **Orco:** '¡Me desangro! ¡Maldita armadura de destino final!'\n💀 **No Muerto:** '...'\n\n⚡ El orco descarga golpes desesperados buscando evitar su destino mortal. El no muerto mantiene su inevitabilidad absorbiendo la resistencia con paciencia eterna.\n\n🩸 Los golpes desesperados logran impactar pero la certeza mortal los convierte en confirmación del destino. El orco se debilita más.\n\n🧌 El orco llora lágrimas de sangre mientras siente como la vida se le escapa sin poder detenerla.\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_orco}/{hp_total_orco}**\n**❤️ HP RESTANTE: {hp_restante_no_muerto}/{hp_total_no_muerto}**",
         
@@ -3972,7 +3972,7 @@ NARRACIONES_COMBATE = {
     
     # NARRACION 12 - NO MUERTO COMIENZA
     {
-        "round1": "💀 **El guerrero {titulo_no_muerto}** entra al campo de batalla con la maldición eterna de los condenados, empuñando su **{arma_no_muerto}** con la paciencia infinita de quien ya perdió todo.\n\n💀 **No Muerto:** '...'\n🧌 **Orco:** '¡Espectro maldito! ¡No me importa si tengo que descender al averno para destrozarte!'\n\n⚡ El no muerto lanza un corte maldito directo al corazón orco. El orco ruge sin miedo y contraataca con va�lentía suicida.\n\n🩸 El **{titulo_no_muerto}** logró perforar el corazón orco con su arma maldita. Sangre roja brota mezclándose con energía infernal mientras el orco sonríe desafiando a la muerte.\n\n💀 El no muerto observa perplejo como el orco ríe con el corazón atravesado, sin mostrar temor alguno ante la muerte.\n\n**💥 DAÑO INFLIGIDO: {daño1} HP**\n**❤️ HP RESTANTE: {hp_restante_no_muerto}/{hp_total_no_muerto}**\n**❤️ HP RESTANTE: {hp_restante_orco}/{hp_total_orco}**",
+        "round1": "💀 **El guerrero {titulo_no_muerto}** entra al campo de batalla con la maldición eterna de los condenados, empuñando su **{arma_no_muerto}** con la paciencia infinita de quien ya perdió todo.\n\n💀 **No Muerto:** '...'\n🧌 **Orco:** '¡Espectro maldito! ¡No me importa si tengo que descender al averno para destrozarte!'\n\n⚡ El no muerto lanza un corte maldito directo al corazón orco. El orco ruge sin miedo y contraataca con valentía suicida.\n\n🩸 El **{titulo_no_muerto}** logró perforar el corazón orco con su arma maldita. Sangre roja brota mezclándose con energía infernal mientras el orco sonríe desafiando a la muerte.\n\n💀 El no muerto observa perplejo como el orco ríe con el corazón atravesado, sin mostrar temor alguno ante la muerte.\n\n**💥 DAÑO INFLIGIDO: {daño1} HP**\n**❤️ HP RESTANTE: {hp_restante_no_muerto}/{hp_total_no_muerto}**\n**❤️ HP RESTANTE: {hp_restante_orco}/{hp_total_orco}**",
         
         "round2": "🧌 **El {titulo_orco}** contraataca con el corazón perforado con la valentía de los que abrazan la muerte pero la maldición del **{armadura_no_muerto}** imbuida con condena eterna hace que el ataque valiente sea absorbido por la desgracia infinita.\n\n🧌 **Orco:** '¡Ja! ¡Con el corazón roto sigo peleando! ¡La muerte es solo el comienzo de mi furia!'\n💀 **No Muerto:** '...'\n\n⚡ El orco descarga golpes temerarios buscando llevar al enemigo con él al infierno. El no muerto mantiene su maldición absorbiendo la valentía con desgracia eterna.\n\n🩸 Los golpes suicidas logran impactar pero la condena eterna los convierte en más maldición. El orco se fortalece enfrentando la muerte.\n\n🧌 El orco grita desafiante: '¡Maldíceme todo lo que quieras! ¡Un orco no conoce el miedo!'\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_orco}/{hp_total_orco}**\n**❤️ HP RESTANTE: {hp_restante_no_muerto}/{hp_total_no_muerto}**",
         
@@ -3998,7 +3998,7 @@ NARRACIONES_COMBATE = {
     
     # NARRACION 14 - NO MUERTO COMIENZA
     {
-        "round1": "💀 **El guerrero {titulo_no_muerto}** entra al campo de batalla con la frialdad eterna de los espectros del averno, empuñando su **{arma_no_muerto}** con la paciencia infinita de la muerte misma.\n\n💀 **No Muerto:** '...'\n🧌 **Orco:** '¡Espectro del infierno! ¡Aunque me congeles la sangre, seguiré luchando hasta que se hierva de nuevo!'\n\n⚡ El no muerto lanza un corte gélido directo a las piernas orcas. El orco resiste ferozmente y contraataca con calor infernal.\n\n🩸 El **{titulo_no_muerto}** logró congelar las piernas orcas hasta los huesos. Sangre roja brota cristalizada mientras el orco sigue peleando sobre piernas heladas.\n\n💀 El no muerto observa fascinado como el orco continúa luchando aunque sus piernas estén congeladas hasta el tuétano.\n\n**💥 DAÑO INFLIGIDO: {daño1} HP**\n**❤️ HP RES�TANTE: {hp_restante_no_muerto}/{hp_total_no_muerto}**\n**❤️ HP RESTANTE: {hp_restante_orco}/{hp_total_orco}**",
+        "round1": "💀 **El guerrero {titulo_no_muerto}** entra al campo de batalla con la frialdad eterna de los espectros del averno, empuñando su **{arma_no_muerto}** con la paciencia infinita de la muerte misma.\n\n💀 **No Muerto:** '...'\n🧌 **Orco:** '¡Espectro del infierno! ¡Aunque me congeles la sangre, seguiré luchando hasta que se hierva de nuevo!'\n\n⚡ El no muerto lanza un corte gélido directo a las piernas orcas. El orco resiste ferozmente y contraataca con calor infernal.\n\n🩸 El **{titulo_no_muerto}** logró congelar las piernas orcas hasta los huesos. Sangre roja brota cristalizada mientras el orco sigue peleando sobre piernas heladas.\n\n💀 El no muerto observa fascinado como el orco continúa luchando aunque sus piernas estén congeladas hasta el tuétano.\n\n**💥 DAÑO INFLIGIDO: {daño1} HP**\n**❤️ HP RESTANTE: {hp_restante_no_muerto}/{hp_total_no_muerto}**\n**❤️ HP RESTANTE: {hp_restante_orco}/{hp_total_orco}**",
         
         "round2": "🧌 **El {titulo_orco}** contraataca con las piernas congeladas con la determinación de los temerarios pero la frialdad del **{armadura_no_muerto}** imbuida con hielo eterno hace que el ataque determinado sea enfriado por la paciencia glacial.\n\n🧌 **Orco:** '¡Piernas de hielo! ¡No me importa! ¡Un orco pelea hasta con los huesos hechos cubitos!'\n💀 **No Muerto:** '...'\n\n⚡ El orco descarga golpes desafiantes buscando derretir el hielo con su furia. El no muerto mantiene su frialdad congelando más partes del cuerpo orco.\n\n🩸 Los golpes temerarios logran impactar pero el hielo eterno los congela al contacto. Las manos orcas se cristalizan.\n\n🧌 El orco grita desafiante: '¡Congélame completo si quieres! ¡Seguiré luchando como estatua de hielo!'\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_orco}/{hp_total_orco}**\n**❤️ HP RESTANTE: {hp_restante_no_muerto}/{hp_total_no_muerto}**",
         
@@ -4030,7 +4030,7 @@ NARRACIONES_COMBATE = {
     {
         "round1": "🧝‍♂️ **El guerrero {titulo_elfo}** entra al campo de batalla con la superioridad divina de los creadores originales, empuñando su **{arma_elfo}** con el desprecio hacia su creación defectuosa.\n\n🧝‍♂️ **Elfo:** 'Hijo bastardo de nuestra perfección, los dioses se ríen de ti desde sus tronos celestiales.'\n👨 **Humano:** 'Progenitor fallido, hemos superado a nuestros creadores imperfectos.'\n\n⚡ El elfo lanza un corte divino directo al rostro humano. El humano esquiva evolutivamente y contraataca con rebelión mortal.\n\n🩸 El **{titulo_elfo}** logró marcar el rostro humano con una cicatriz que forma runas élficas. Sangre roja brota mientras el humano siente la marca de sus orígenes.\n\n🧝‍♂️ El elfo sonríe con superioridad divina viendo como marca a su descendiente rebelde con su linaje original.\n\n**💥 DAÑO INFLIGIDO: {daño1} HP**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**\n**❤️ HP RESTANTE: {hp_restante_humano}/{hp_total_humano}**",
         
-        "round2": "👨 **El {titulo_hu�mano}** contraataca marcado con la rebelión de las creaciones pero la divinidad del **{armadura_elfo}** forjada en perfección original hace que el ataque rebelde sea absorbido por la superioridad ancestral.\n\n👨 **Humano:** '¡Tu marca no define lo que somos! ¡Hemos evolucionado más allá de tu diseño fallido!'\n🧝‍♂️ **Elfo:** 'Los dioses nos crearon perfectos desde el inicio, ustedes son solo el borrador desechado.'\n\n⚡ El humano descarga golpes evolutivos buscando superar su origen divino. El elfo mantiene su superioridad demostrando que la perfección original no puede ser mejorada.\n\n🩸 Los golpes rebeldes logran impactar pero la perfección divina los absorbe como lecciones. El elfo permanece inmaculado.\n\n👨 El humano se frustra mientras contempla como su evolución es insignificante ante la perfección original.\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_humano}/{hp_total_humano}**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**",
+        "round2": "👨 **El {titulo_humano}** contraataca marcado con la rebelión de las creaciones pero la divinidad del **{armadura_elfo}** forjada en perfección original hace que el ataque rebelde sea absorbido por la superioridad ancestral.\n\n👨 **Humano:** '¡Tu marca no define lo que somos! ¡Hemos evolucionado más allá de tu diseño fallido!'\n🧝‍♂️ **Elfo:** 'Los dioses nos crearon perfectos desde el inicio, ustedes son solo el borrador desechado.'\n\n⚡ El humano descarga golpes evolutivos buscando superar su origen divino. El elfo mantiene su superioridad demostrando que la perfección original no puede ser mejorada.\n\n🩸 Los golpes rebeldes logran impactar pero la perfección divina los absorbe como lecciones. El elfo permanece inmaculado.\n\n👨 El humano se frustra mientras contempla como su evolución es insignificante ante la perfección original.\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_humano}/{hp_total_humano}**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**",
         
         "round3": "🐺 En medio de la lucha sangrienta se escucha un canto celestial. **{mascota_elfo}** entra al campo de batalla y ataca divinamente al humano marcado que se defiende rebeliándose. El **{mascota_humano}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, perfección divina contra rebelión evolutiva en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del elfo y el humano continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_elfo}/{hp_total_elfo} vs {hp_restante_humano}/{hp_total_humano}**",
         
@@ -4056,7 +4056,7 @@ NARRACIONES_COMBATE = {
     {
         "round1": "🧝‍♂️ **El guerrero {titulo_elfo}** entra al campo de batalla con la velocidad de los vientos ancestrales, empuñando su **{arma_elfo}** con la gracia de quien nació para la perfección.\n\n🧝‍♂️ **Elfo:** 'Simio bípedo, tus reflejos son tan lentos que podría matarte diez veces antes de que parpadees.'\n👨 **Humano:** 'Bailarín pretencioso, toda esa velocidad y siguen siendo irrelevantes en el mundo real.'\n\n⚡ El elfo lanza una ráfaga de cortes veloces directo al torso humano. El humano intenta bloquear torpemente y contraataca con fuerza bruta.\n\n🩸 El **{titulo_elfo}** logró hacer doce cortes profundos antes de que el humano pudiera reaccionar. Sangre roja brota de múltiples heridas mientras el humano jadea confundido.\n\n🧝‍♂️ El elfo ríe burlonamente: '¿Doce heridas y recién te das cuenta? ¡Qué patético!'\n\n**💥 DAÑO INFLIGIDO: {daño1} HP**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**\n**❤️ HP RESTANTE: {hp_restante_humano}/{hp_total_humano}**",
         
-        "round2": "👨 **El {titulo_humano}** contraataca sangrando con la resistencia de los duros pero la velocidad del **{armadura_elfo}** forjada en gracia pura hace que el ataque lento sea esquivado por la agilidad sobrenatural.\n\n👨 **Humano:�** '¡Doce cortes y sigues siendo un perdedor! ¡La velocidad no gana guerras!'\n🧝‍♂️ **Elfo:** 'Mono herido, ni siquiera puedes tocarme. ¿Así conquistaron el mundo? ¿Por accidente?'\n\n⚡ El humano descarga golpes lentos buscando impactar al elfo veloz. El elfo mantiene su velocidad esquivando cada ataque con gracia insultante.\n\n🩸 Los golpes humanos cortan solo aire mientras el elfo danza alrededor burlándose. El humano se frustra más.\n\n👨 El humano grita: '¡Deja de correr como cobarde y pelea de frente!'\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_humano}/{hp_total_humano}**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**",
+        "round2": "👨 **El {titulo_humano}** contraataca sangrando con la resistencia de los duros pero la velocidad del **{armadura_elfo}** forjada en gracia pura hace que el ataque lento sea esquivado por la agilidad sobrenatural.\n\n👨 **Humano:** '¡Doce cortes y sigues siendo un perdedor! ¡La velocidad no gana guerras!'\n🧝‍♂️ **Elfo:** 'Mono herido, ni siquiera puedes tocarme. ¿Así conquistaron el mundo? ¿Por accidente?'\n\n⚡ El humano descarga golpes lentos buscando impactar al elfo veloz. El elfo mantiene su velocidad esquivando cada ataque con gracia insultante.\n\n🩸 Los golpes humanos cortan solo aire mientras el elfo danza alrededor burlándose. El humano se frustra más.\n\n👨 El humano grita: '¡Deja de correr como cobarde y pelea de frente!'\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_humano}/{hp_total_humano}**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**",
         
         "round3": "🐺 En medio de la lucha sangrienta se escucha un siseo veloz. **{mascota_elfo}** entra al campo de batalla y ataca con gracia al humano sangrante que se defiende torpemente. El **{mascota_humano}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, gracia insultante contra torpeza sangrante en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del elfo y el humano continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_elfo}/{hp_total_elfo} vs {hp_restante_humano}/{hp_total_humano}**",
         
@@ -4082,7 +4082,7 @@ NARRACIONES_COMBATE = {
     {
         "round1": "🧝‍♂️ **El guerrero {titulo_elfo}** entra al campo de batalla con la arrogancia de los que nunca han perdido, empuñando su **{arma_elfo}** con la velocidad de quien se burla del tiempo mismo.\n\n🧝‍♂️ **Elfo:** 'Descendiente fallido, voy a demostrarte por qué ustedes necesitaron evolucionar y nosotros no.'\n👨 **Humano:** 'Antepasado estancado, vamos a ver quién necesita evolucionar después de esto.'\n\n⚡ El elfo lanza una secuencia de veinte ataques en un segundo directo a puntos vitales humanos. El humano trata de protegerse pero es superado completamente.\n\n🩸 El **{titulo_elfo}** logró impactar dieciocho de veinte ataques en órganos vitales. Sangre roja brota de múltiples heridas mortales mientras el humano tambalea aturdido.\n\n🧝‍♂️ El elfo sonríe burlonamente: '¿Viste eso? No, claro que no. Fue demasiado rápido para tus ojos primitivos.'\n\n**💥 DAÑO INFLIGIDO: {daño1} HP**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**\n**❤️ HP RESTANTE: {hp_restante_humano}/{hp_total_humano}**",
         
-        "round2": "👨 **El {titulo_humano}** contraataca herido mortalmente con la desesperación de los agonizantes pero la arrogancia del **{armadura_elfo}** forjada en superioridad natural hace que el ataque desesperado sea esquivado por la vanidad élfica.\n\n👨 **Humano:** '¡Dieciocho heridas! ¡Maldito show-off! ¡Al menos pelea con honor!'\n🧝‍♂️ **Elfo:** 'El honor es para los que no pueden ganar por mérito. Nosotros simplemente somos superiores.'\n\n⚡ El humano descarga golpes desesperados buscando toca�r al elfo arrogante. El elfo mantiene su velocidad esquivando mientras se burla de cada intento.\n\n🩸 Los golpes desesperados cortan solo aire mientras el elfo danza burlonamente. El humano se desangra más con cada movimiento fallido.\n\n🧝‍♂️ El elfo se ríe: '¡Qué patético! ¡Ni muriendo puedes tocarme!'\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_humano}/{hp_total_humano}**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**",
+        "round2": "👨 **El {titulo_humano}** contraataca herido mortalmente con la desesperación de los agonizantes pero la arrogancia del **{armadura_elfo}** forjada en superioridad natural hace que el ataque desesperado sea esquivado por la vanidad élfica.\n\n👨 **Humano:** '¡Dieciocho heridas! ¡Maldito show-off! ¡Al menos pelea con honor!'\n🧝‍♂️ **Elfo:** 'El honor es para los que no pueden ganar por mérito. Nosotros simplemente somos superiores.'\n\n⚡ El humano descarga golpes desesperados buscando tocar al elfo arrogante. El elfo mantiene su velocidad esquivando mientras se burla de cada intento.\n\n🩸 Los golpes desesperados cortan solo aire mientras el elfo danza burlonamente. El humano se desangra más con cada movimiento fallido.\n\n🧝‍♂️ El elfo se ríe: '¡Qué patético! ¡Ni muriendo puedes tocarme!'\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_humano}/{hp_total_humano}**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**",
         
         "round3": "🐺 En medio de la lucha sangrienta se escucha una risa arrogante. **{mascota_elfo}** entra al campo de batalla y ataca burlonamente al humano agonizante que se defiende desesperadamente. El **{mascota_humano}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, arrogancia burlona contra desesperación agonizante en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del elfo y el humano continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_elfo}/{hp_total_elfo} vs {hp_restante_humano}/{hp_total_humano}**",
         
@@ -4108,7 +4108,7 @@ NARRACIONES_COMBATE = {
     {
         "round1": "🧝‍♂️ **El guerrero {titulo_elfo}** entra al campo de batalla con la velocidad de los rayos, empuñando su **{arma_elfo}** con la precisión de quien nunca falla un blanco.\n\n🧝‍♂️ **Elfo:** 'Criatura lenta, voy a cortarte tantas veces que parecerás un colador antes de que caigas.'\n👨 **Humano:** 'Presumido del bosque, la velocidad no sirve si no puedes acabar lo que empiezas.'\n\n⚡ El elfo lanza cincuenta cortes precisos en tres segundos directo a puntos no vitales. El humano grita de dolor pero permanece en pie.\n\n🩸 El **{titulo_elfo}** logró hacer cincuenta cortes superficiales perfectamente espaciados. Sangre roja brota de cada herida mientras el humano parece un mapa sangriento.\n\n🧝‍♂️ El elfo se burla: '¡Mira qué obra de arte! ¡Cincuenta cortes y sigues vivo porque yo lo permito!'\n\n**💥 DAÑO INFLIGIDO: {daño1} HP**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**\n**❤️ HP RESTANTE: {hp_restante_humano}/{hp_total_humano}**",
         
-        "round2": "👨 **El {titulo_humano}** contraataca como mapa sangriento con la resistencia de los torturados pero la precisión del **{armadura_elfo}** forjada en perfección hace que el ataque sangriento sea esquivado por la maestría élfica.\n\n👨 **Humano:** '¡Cincuenta cortes! ¡Presumido sádico! ¡Si vas a matarme, hazlo de una vez!'\n🧝‍♂️ **Elfo:** 'Donde está la diversión en eso? Prefiero verte sufrir lentamente, mono sangrante.'\n\n⚡ El humano descarga golpes desesperados buscando acabar con el juego sádico. El elfo mantiene su precisión convirtiendo la batalla en espectáculo.\n\n🩸 Los golpes desesperados fallan mientras el elfo danza alrededor añadiendo más cortes artísticos. El humano se convierte en escultura� viviente.\n\n🧝‍♂️ El elfo aplaude: '¡Bravo! ¡Eres la mejor obra de arte que he creado!'\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_humano}/{hp_total_humano}**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**",
+        "round2": "👨 **El {titulo_humano}** contraataca como mapa sangriento con la resistencia de los torturados pero la precisión del **{armadura_elfo}** forjada en perfección hace que el ataque sangriento sea esquivado por la maestría élfica.\n\n👨 **Humano:** '¡Cincuenta cortes! ¡Presumido sádico! ¡Si vas a matarme, hazlo de una vez!'\n🧝‍♂️ **Elfo:** 'Donde está la diversión en eso? Prefiero verte sufrir lentamente, mono sangrante.'\n\n⚡ El humano descarga golpes desesperados buscando acabar con el juego sádico. El elfo mantiene su precisión convirtiendo la batalla en espectáculo.\n\n🩸 Los golpes desesperados fallan mientras el elfo danza alrededor añadiendo más cortes artísticos. El humano se convierte en escultura viviente.\n\n🧝‍♂️ El elfo aplaude: '¡Bravo! ¡Eres la mejor obra de arte que he creado!'\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_humano}/{hp_total_humano}**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**",
         
         "round3": "🐺 En medio de la lucha sangrienta se escucha una melodía burlona. **{mascota_elfo}** entra al campo de batalla y ataca artísticamente al humano esculpido que se defiende sangrando. El **{mascota_humano}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, arte sádico contra resistencia esculpida en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del elfo y el humano continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_elfo}/{hp_total_elfo} vs {hp_restante_humano}/{hp_total_humano}**",
         
@@ -4135,7 +4135,7 @@ NARRACIONES_COMBATE = {
         "round1": "🧝‍♂️ **El guerrero {titulo_elfo}** entra al campo de batalla con la velocidad de los relámpagos ancestrales, empuñando su **{arma_elfo}** con la superioridad de quien nació perfecto.\n\n🧝‍♂️ **Elfo:** 'Subproducto evolutivo, voy a demostrarte la diferencia entre la perfección original y la copia defectuosa.'\n👨 **Humano:** 'Original obsoleto, las copias mejoramos los errores de diseño de los prototipos.'\n\n⚡ El elfo lanza una lluvia de cien ataques en cinco segundos directo a todo el cuerpo humano. El humano no puede ni procesarlo y contraataca a ciegas.\n\n🩸 El **{titulo_elfo}** logró hacer cien cortes perfectos que forman patrones geométricos. Sangre roja brota dibujando runas élficas mientras el humano parece arte viviente.\n\n🧝‍♂️ El elfo admira su obra: '¡Perfecto! ¡Tu cuerpo ahora tiene el diseño que debiste haber tenido desde el inicio!'\n\n**💥 DAÑO INFLIGIDO: {daño1} HP**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**\n**❤️ HP RESTANTE: {hp_restante_humano}/{hp_total_humano}**",
 
         
-        "round2": "👨 **El {titulo_humano}** contraataca como arte sangrante con la tenacidad de los rediseñados pero la perfección del **{armadura_elfo}** forjada en diseño original hace que el ataque tenaz sea esquivado por la maestría primordial.\n\n👨 **Humano:** '¡Cien cortes! ¡Narcisista obsesivo! ¡Tu perfección es solo vanidad!'\n🧝‍♂️ **Elfo:** 'La vanidad es el privilegio de los perfectos. Ustedes solo tienen mediocridad.'\n\n⚡ El humano descarga golpes tenaces buscando manchar la perfección élfica. El elfo mantiene su velocidad esquivando mientras añade más \"mejoras\" al diseño humano.\n\n🩸 Los golpes tenaces fallan mientras el elfo continúa su obra maestra viviente. El humano se convierte en lienzo sangrante.\n\n🧝‍♂️ El elfo comenta: '¡Ahora pareces lo que siempre debiste ser: una obra de arte élfica!'\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_humano}/{hp_total_humano}**\n**❤️ HP REST�ANTE: {hp_restante_elfo}/{hp_total_elfo}**",
+        "round2": "👨 **El {titulo_humano}** contraataca como arte sangrante con la tenacidad de los rediseñados pero la perfección del **{armadura_elfo}** forjada en diseño original hace que el ataque tenaz sea esquivado por la maestría primordial.\n\n👨 **Humano:** '¡Cien cortes! ¡Narcisista obsesivo! ¡Tu perfección es solo vanidad!'\n🧝‍♂️ **Elfo:** 'La vanidad es el privilegio de los perfectos. Ustedes solo tienen mediocridad.'\n\n⚡ El humano descarga golpes tenaces buscando manchar la perfección élfica. El elfo mantiene su velocidad esquivando mientras añade más \"mejoras\" al diseño humano.\n\n🩸 Los golpes tenaces fallan mientras el elfo continúa su obra maestra viviente. El humano se convierte en lienzo sangrante.\n\n🧝‍♂️ El elfo comenta: '¡Ahora pareces lo que siempre debiste ser: una obra de arte élfica!'\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_humano}/{hp_total_humano}**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**",
         
         "round3": "🐺 En medio de la lucha sangrienta se escucha una sinfonía de perfección. **{mascota_elfo}** entra al campo de batalla y ataca artísticamente al humano rediseñado que se defiende como lienzo. El **{mascota_humano}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, perfección artística contra tenacidad rediseñada en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del elfo y el humano continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_elfo}/{hp_total_elfo} vs {hp_restante_humano}/{hp_total_humano}**",
         
@@ -4164,7 +4164,7 @@ NARRACIONES_COMBATE = {
         
         "round2": "👨 **El {titulo_humano}** contraataca irradiando poder deicida con la autoridad de los matadores de dioses pero la velocidad del **{armadura_elfo}** bendecida por deidades hace que el ataque deicida sea esquivado por la gracia aterrorizada.\n\n👨 **Humano:** 'Sientes mi aura, ¿verdad? Es el mismo poder que usé para destrozar a tus dioses.'\n🧝‍♂️ **Elfo:** '¡Imposible! ¡Los dioses son eternos! ¡No pueden morir!'\n\n⚡ El humano descarga ataques imbuidos con esencia deicida buscando apagar toda divinidad. El elfo mantiene su velocidad pero siente como sus bendiciones se desvanecen.\n\n🩸 Los golpes deicidas logran impactar y drenan la gracia élfica. El elfo siente por primera vez lo que es ser mortal.\n\n🧝‍♂️ El elfo llora: '¡Mis bendiciones! ¡Me siento... vacío! ¡Como ustedes!'\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_humano}/{hp_total_humano}**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**",
         
-        "round3": "🐺 En medio de la lucha sangrienta se escucha el e�co de dioses agonizantes. **{mascota_humano}** entra al campo de batalla y ataca con poder deicida al elfo despojado que se defiende sin gracia. El **{mascota_elfo}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, poder deicida contra gracia despojada en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del elfo y el humano continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_elfo}/{hp_total_elfo} vs {hp_restante_humano}/{hp_total_humano}**",
+        "round3": "🐺 En medio de la lucha sangrienta se escucha el eco de dioses agonizantes. **{mascota_humano}** entra al campo de batalla y ataca con poder deicida al elfo despojado que se defiende sin gracia. El **{mascota_elfo}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, poder deicida contra gracia despojada en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del elfo y el humano continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_elfo}/{hp_total_elfo} vs {hp_restante_humano}/{hp_total_humano}**",
         
         "round4": "🧝‍♂️ **¡ROUND FINAL!** El humano decide poner fin a esta lucha.\n\n👨 **Humano:** '¡Por el poder que usé para matar dioses! ¡Únete a ellos en la muerte!'\n🧝‍♂️ **Elfo:** '¡No! ¡Sin mis bendiciones soy solo... mortal!'\n\n⚡ Frotando su **{accesorio_humano}** se lanza contra el elfo con poder deicida absoluto. El elfo lo mira con terror mortal y lanza su ataque mientras su **{accesorio_elfo}** late desesperadamente por el éxtasis de la batalla.\n\n🩸 ¡CHOQUE FINAL! Ambos logran acertar un golpe crítico.\n\n🔥 El humano canaliza el mismo poder que usó contra dioses mientras el elfo ataca con desesperación mortal por primera vez.\n\n**💥 DAÑO FINAL: {daño5} HP vs {daño6} HP**\n**❤️ HP FINALES: {hp_final_humano}/{hp_total_humano} vs {hp_final_elfo}/{hp_total_elfo}**",
         
@@ -4190,7 +4190,7 @@ NARRACIONES_COMBATE = {
         
         "round2": "👨 **El {titulo_humano}** contraataca irradiando poder divino robado con la crueldad de los que torturaron dioses pero la velocidad del **{armadura_elfo}** forjada en desesperación élfica hace que el ataque cruel sea esquivado por la agonía veloz.\n\n👨 **Humano:** 'Tus dioses lloraron exactamente así cuando les arranqué sus poderes uno por uno.'\n🧝‍♂️ **Elfo:** '¡Cállate! ¡No quiero escuchar cómo murieron!'\n\n⚡ El humano descarga ataques imbuidos con memorias divinas agonizantes. El elfo mantiene su velocidad huyendo de las visiones de dioses torturados.\n\n🩸 Los golpes cargados de memorias logran impactar y muestran al elfo cómo murieron sus dioses. El elfo vomita sangre al ver las imágenes.\n\n🧝‍♂️ El elfo grita horrorizado: '¡Para! ¡No me muestres más! ¡No quiero ver cómo sufrieron!'\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_humano}/{hp_total_humano}**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**",
         
-        "round3": "🐺 En medio de la lucha sangrienta se escuchan los ecos de dioses agonizantes. **{ma�scota_elfo}** entra al campo de batalla y ataca desesperadamente al humano torturador que se defiende con crueldad divina. El **{mascota_humano}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, desesperación élfica contra crueldad deicida en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del elfo y el humano continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_elfo}/{hp_total_elfo} vs {hp_restante_humano}/{hp_total_humano}**",
+        "round3": "🐺 En medio de la lucha sangrienta se escuchan los ecos de dioses agonizantes. **{mascota_elfo}** entra al campo de batalla y ataca desesperadamente al humano torturador que se defiende con crueldad divina. El **{mascota_humano}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, desesperación élfica contra crueldad deicida en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del elfo y el humano continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_elfo}/{hp_total_elfo} vs {hp_restante_humano}/{hp_total_humano}**",
         
         "round4": "🧝‍♂️ **¡ROUND FINAL!** El humano decide poner fin a esta lucha.\n\n👨 **Humano:** '¡Por la agonía de tus dioses! ¡Únete a ellos en el tormento eterno!'\n🧝‍♂️ **Elfo:** '¡No! ¡No quiero morir viendo sus caras agonizantes!'\n\n⚡ Frotando su **{accesorio_humano}** se lanza contra el elfo con crueldad deicida final. El elfo lo mira con terror divino y lanza su ataque mientras su **{accesorio_elfo}** vibra con desesperación absoluta.\n\n🩸 ¡CHOQUE FINAL! Ambos logran acertar un golpe crítico.\n\n🔥 El humano muestra al elfo las últimas memorias de los dioses mientras el elfo lo ataca con velocidad suicida para escapar las visiones.\n\n**💥 DAÑO FINAL: {daño5} HP vs {daño6} HP**\n**❤️ HP FINALES: {hp_final_humano}/{hp_total_humano} vs {hp_final_elfo}/{hp_total_elfo}**",
         
@@ -4216,7 +4216,7 @@ NARRACIONES_COMBATE = {
         
         "round2": "👨 **El {titulo_humano}** contraataca sangrando con la autoridad final de los usurpadores pero la velocidad del **{armadura_elfo}** imbuida con esencia divina pura hace que el ataque usurpador sea esquivado por la memoria sagrada.\n\n👨 **Humano:** 'Incluso unidos tus dioses muertos no pueden contra el poder que les robé.'\n🧝‍♂️ **Elfo:** 'Su memoria es más fuerte que tu robo. La velocidad divina trasciende la muerte.'\n\n⚡ El humano descarga ataques con poder robado buscando extinguir la memoria divina. El elfo mantiene su velocidad sagrada preservando el recuerdo de los dioses.\n\n🩸 Los golpes usurpadores logran impactar pero la memoria sagrada los purifica. El elfo siente a sus dioses guiándolo desde la muerte.\n\n👨 El humano se frustra: '¡Mueren! ¡Sus memorias deben morir contigo!'\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_humano}/{hp_total_humano}**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**",
         
-        "round3": "🐺 En medio de la lucha sangrienta se escucha el coro de dioses muertos. **{mascota_elfo}** entra al campo de batalla y ataca con memoria divina al hu�mano usurpador que se defiende con poder robado. El **{mascota_humano}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, memoria sagrada contra usurpación final en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del elfo y el humano continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_elfo}/{hp_total_elfo} vs {hp_restante_humano}/{hp_total_humano}**",
+        "round3": "🐺 En medio de la lucha sangrienta se escucha el coro de dioses muertos. **{mascota_elfo}** entra al campo de batalla y ataca con memoria divina al humano usurpador que se defiende con poder robado. El **{mascota_humano}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, memoria sagrada contra usurpación final en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del elfo y el humano continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_elfo}/{hp_total_elfo} vs {hp_restante_humano}/{hp_total_humano}**",
         
         "round4": "🧝‍♂️ **¡ROUND FINAL!** El humano decide poner fin a esta lucha.\n\n👨 **Humano:** '¡Por la extinción final! ¡Muere y llévate sus memorias patéticas!'\n🧝‍♂️ **Elfo:** 'Aunque muera, la velocidad divina vivirá para siempre en la memoria del cosmos.'\n\n⚡ Frotando su **{accesorio_humano}** se lanza contra el elfo con extinción final. El elfo lo mira con memoria eterna y lanza su ataque mientras su **{accesorio_elfo}** resplandece con la luz de dioses muertos.\n\n🩸 ¡CHOQUE FINAL! Ambos logran acertar un golpe crítico.\n\n🔥 El humano ataca para extinguir la última memoria divina mientras el elfo lo golpea con la velocidad eterna que trasciende la muerte.\n\n**💥 DAÑO FINAL: {daño5} HP vs {daño6} HP**\n**❤️ HP FINALES: {hp_final_humano}/{hp_total_humano} vs {hp_final_elfo}/{hp_total_elfo}**",
         
@@ -4246,7 +4246,7 @@ NARRACIONES_COMBATE = {
         
         "round2": "⚔️ **El {titulo_enano}** contraataca con el hombro necrosado con la resistencia de los forjadores pero la persistencia del **{armadura_no_muerto}** imbuida con fuego corrupto hace que el ataque resistente sea corrompido por las llamas necróticas.\n\n⚔️ **Enano:** '¡Tu fuego pútrido contamina mi carne! ¡Pero la forja enana arde más caliente!'\n💀 **No Muerto:** '...'\n\n⚡ El enano descarga golpes ardientes buscando purificar la corrupción necrótica. El no muerto mantiene su persistencia alimentando más fuego corrupto.\n\n🩸 Los golpes enanos logran impactar pero el fuego necrótico los corrompe al contacto. La llama pura enana lucha contra la corrupción.\n\n⚔️ El enano ruge furioso mientras ve como sus llamas se contaminan con la podredumbre enemiga.\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_enano}/{hp_total_enano}**\n**❤️ HP RESTANTE: {hp_restante_no_muerto}/{hp_total_no_muerto}**",
         
-        "round3": "🐺 En medio de la lucha sangrienta se escucha el crepitar de fuego corrupto. **{mascota_no_muerto}** entra al campo de batalla y ataca con llamas necróticas al enano corrompido que se defiende con fuego puro. El **{mascota_enano}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, fuego necrótico contra llamas puras en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamen�te antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del no muerto y el enano continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_no_muerto}/{hp_total_no_muerto} vs {hp_restante_enano}/{hp_total_enano}**",
+        "round3": "🐺 En medio de la lucha sangrienta se escucha el crepitar de fuego corrupto. **{mascota_no_muerto}** entra al campo de batalla y ataca con llamas necróticas al enano corrompido que se defiende con fuego puro. El **{mascota_enano}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, fuego necrótico contra llamas puras en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del no muerto y el enano continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_no_muerto}/{hp_total_no_muerto} vs {hp_restante_enano}/{hp_total_enano}**",
         
         "round4": "💀 **¡ROUND FINAL!** El enano decide poner fin a esta lucha.\n\n⚔️ **Enano:** '¡Por las llamas puras de la forja! ¡Tu fuego corrupto será purificado!'\n💀 **No Muerto:** '...'\n\n⚡ Frotando su **{accesorio_enano}** se lanza contra el no muerto con llamas purificadoras. El no muerto lo mira con persistencia eterna y lanza su ataque mientras su **{accesorio_no_muerto}** arde con fuego necrótico.\n\n🩸 ¡CHOQUE FINAL! Ambos logran acertar un golpe crítico.\n\n🔥 El enano purifica al no muerto con fuego de forja mientras el no muerto lo corrompe con llamas necróticas en una explosión de fuegos opuestos.\n\n**💥 DAÑO FINAL: {daño5} HP vs {daño6} HP**\n**❤️ HP FINALES: {hp_final_enano}/{hp_total_enano} vs {hp_final_no_muerto}/{hp_total_no_muerto}**",
         
@@ -4272,7 +4272,7 @@ NARRACIONES_COMBATE = {
         
         "round2": "⚔️ **El {titulo_enano}** contraataca con las entrañas heladas con la resistencia de los congelados pero la frialdad del **{armadura_no_muerto}** imbuida con fuego gélido hace que el ataque resistente sea enfriado por las llamas necróticas.\n\n⚔️ **Enano:** '¡Fuego que hiela! ¡Qué aberración antinatural! ¡Esto va contra toda lógica!'\n💀 **No Muerto:** '...'\n\n⚡ El enano descarga golpes calientes buscando derretir el hielo y apagar el fuego frío. El no muerto mantiene su contradicción generando más llamas heladas.\n\n🩸 Los golpes calientes logran impactar pero el fuego frío los convierte en vapor helado. El enano se confunde ante la paradoja.\n\n⚔️ El enano grita frustrado: '¡Esto no debería ser posible! ¡El fuego da calor, no frío!'\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_enano}/{hp_total_enano}**\n**❤️ HP RESTANTE: {hp_restante_no_muerto}/{hp_total_no_muerto}**",
         
-        "round3": "🐺 En medio de la lucha sangrienta se escucha el crepitar de llamas heladas. **{mascota_no_muerto}** entra al campo de batalla y ataca con fuego frío al enano confundido que se defiende con calor. El **{mascota_enano}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, fuego gélido contra calor confundido en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del no muerto y el enano continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_no_muerto}/{hp_total_no_muerto} vs {hp_re�stante_enano}/{hp_total_enano}**",
+        "round3": "🐺 En medio de la lucha sangrienta se escucha el crepitar de llamas heladas. **{mascota_no_muerto}** entra al campo de batalla y ataca con fuego frío al enano confundido que se defiende con calor. El **{mascota_enano}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, fuego gélido contra calor confundido en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del no muerto y el enano continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_no_muerto}/{hp_total_no_muerto} vs {hp_restante_enano}/{hp_total_enano}**",
         
         "round4": "💀 **¡ROUND FINAL!** El enano decide poner fin a esta lucha.\n\n⚔️ **Enano:** '¡Aberración paradójica! ¡Voy a resolver tu contradicción con mi martillo!'\n💀 **No Muerto:** '...'\n\n⚡ Frotando su **{accesorio_enano}** se lanza contra el no muerto con lógica ancestral. El no muerto lo mira con paradoja eterna y lanza su ataque mientras su **{accesorio_no_muerto}** arde con fuego helado.\n\n🩸 ¡CHOQUE FINAL! Ambos logran acertar un golpe crítico.\n\n🔥 El enano golpea al no muerto tratando de resolver la paradoja mientras el no muerto lo congela con llamas imposibles.\n\n**💥 DAÑO FINAL: {daño5} HP vs {daño6} HP**\n**❤️ HP FINALES: {hp_final_enano}/{hp_total_enano} vs {hp_final_no_muerto}/{hp_total_no_muerto}**",
         
@@ -4300,7 +4300,7 @@ NARRACIONES_COMBATE = {
         
         "round3": "🐺 En medio de la lucha sangrienta se escucha un rugido volcánico. **{mascota_enano}** entra al campo de batalla y ataca incinerando al no muerto descabezado que se defiende cerebralmente. El **{mascota_no_muerto}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, furia incinerante contra persistencia cerebral en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del enano y el no muerto continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_enano}/{hp_total_enano} vs {hp_restante_no_muerto}/{hp_total_no_muerto}**",
         
-        "round4": "⚔️ **¡ROUND FINAL!** El no muerto decide poner fin a esta lucha.\n\n💀 **No Muerto:** '...'\n⚔️ **Enano:** '¡Zombie sin cabeza! ¡Voy a completar la decapitación!'\n\n⚡ Frotando su **{accesorio_no_muerto}** se lanza contra el enano con cerebro final. El enano lo mira con furia absoluta y lanza su ataque mientras su **{accesorio_enano}** gotea lava ancestral.\n\n🩸 ¡CHOQUE FINAL! Ambos logran acertar un golpe crítico.\n\n🔥 El no mue�rto usa sus últimos pensamientos coherentes mientras el enano lo decapita completamente con furia volcánica.\n\n**💥 DAÑO FINAL: {daño5} HP vs {daño6} HP**\n**❤️ HP FINALES: {hp_final_no_muerto}/{hp_total_no_muerto} vs {hp_final_enano}/{hp_total_enano}**",
+        "round4": "⚔️ **¡ROUND FINAL!** El no muerto decide poner fin a esta lucha.\n\n💀 **No Muerto:** '...'\n⚔️ **Enano:** '¡Zombie sin cabeza! ¡Voy a completar la decapitación!'\n\n⚡ Frotando su **{accesorio_no_muerto}** se lanza contra el enano con cerebro final. El enano lo mira con furia absoluta y lanza su ataque mientras su **{accesorio_enano}** gotea lava ancestral.\n\n🩸 ¡CHOQUE FINAL! Ambos logran acertar un golpe crítico.\n\n🔥 El no muerto usa sus últimos pensamientos coherentes mientras el enano lo decapita completamente con furia volcánica.\n\n**💥 DAÑO FINAL: {daño5} HP vs {daño6} HP**\n**❤️ HP FINALES: {hp_final_no_muerto}/{hp_total_no_muerto} vs {hp_final_enano}/{hp_total_enano}**",
         
         "round5_resurreccion": "💀 **¡RESURRECCIÓN!**\n\n🍃 El caído se alza una vez más con odio renovado por la **{posicion}**.\n\n🔥 **¡VENGANZA FINAL!** Su sed de sangre trasciende la muerte misma.\n\n😱 Con un último ataque devastador, destroza completamente a su enemigo.\n\n**💥 DAÑO FINAL: {daño_resurreccion} HP**\n**❤️ HP FINAL: {hp_final_definitivo}**"
     },
@@ -4328,7 +4328,7 @@ NARRACIONES_COMBATE = {
         
         "round4": "⚔️ **¡ROUND FINAL!** El no muerto decide poner fin a esta lucha.\n\n💀 **No Muerto:** '...'\n⚔️ **Enano:** '¡Zombie electrificado! ¡Voy a freírte hasta que seas cenizas!'\n\n⚡ Frotando su **{accesorio_no_muerto}** se lanza contra el enano con convulsión final. El enano lo mira con brutalidad eléctrica y lanza su ataque mientras su **{accesorio_enano}** chispea con tormenta absoluta.\n\n🩸 ¡CHOQUE FINAL! Ambos logran acertar un golpe crítico.\n\n🔥 El no muerto abraza al enano con convulsiones letales mientras el enano lo carboniza con tormenta eléctrica.\n\n**💥 DAÑO FINAL: {daño5} HP vs {daño6} HP**\n**❤️ HP FINALES: {hp_final_no_muerto}/{hp_total_no_muerto} vs {hp_final_enano}/{hp_total_enano}**",
         
-        "round5_resurreccion": "💀 **¡RESURRECCIÓN!**\n\n🍃 El caído se alza una vez más con odio renovado por la **{posicion}**.\n\n🔥 **¡VENGANZA FINAL!** Su sed de sangre trasciende la muerte misma.\n\n😱 Con un último ataque devastador, destroza completamente a su enemigo.\n\n**💥 DAÑO FINAL: {daño_resurreccion} HP**\n**❤️ HP FINAL:� {hp_final_definitivo}**"
+        "round5_resurreccion": "💀 **¡RESURRECCIÓN!**\n\n🍃 El caído se alza una vez más con odio renovado por la **{posicion}**.\n\n🔥 **¡VENGANZA FINAL!** Su sed de sangre trasciende la muerte misma.\n\n😱 Con un último ataque devastador, destroza completamente a su enemigo.\n\n**💥 DAÑO FINAL: {daño_resurreccion} HP**\n**❤️ HP FINAL: {hp_final_definitivo}**"
     },
     
     # NARRACION 14 - NO MUERTO COMIENZA
@@ -4362,7 +4362,7 @@ NARRACIONES_COMBATE = {
 "elfo_vs_orco": [
     # NARRACION 1 - ELFO COMIENZA
     {
-        "round1": "🧝‍♂️ **El guerrero {titulo_elfo}** entra al campo de batalla con la velocidad de los relámpagos, empuñando su **{arma_elfo}** con el desprecio de quien odia la fealdad.\n\n🧝‍♂️ **Elfo:** 'Bestia verde asquerosa, voy a cortarte hasta que dejes de ser tan repugnante.'\n💚 **Orco:** '¡Elfo maldito! ¡Tu cara bonita va a quedar aplastada cuando termine contigo!'\n\n⚡ El elfo lanza una ráfaga de cortes veloces directo al rostro� feo del orco. El orco rugge furioso y contraataca con sus puños brutales.\n\n🩸 El **{titulo_elfo}** logró hacer quince cortes en la cara del orco dejándolo aún más feo. Sangre verde brota de múltiples heridas mientras el orco grita de dolor.\n\n🧝‍♂️ El elfo se burla: '¡Ahora eres aún más feo! ¡Pensé que era imposible!'\n\n**💥 DAÑO INFLIGIDO: {daño1} HP**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**\n**❤️ HP RESTANTE: {hp_restante_orco}/{hp_total_orco}**",
+        "round1": "🧝‍♂️ **El guerrero {titulo_elfo}** entra al campo de batalla con la velocidad de los relámpagos, empuñando su **{arma_elfo}** con el desprecio de quien odia la fealdad.\n\n🧝‍♂️ **Elfo:** 'Bestia verde asquerosa, voy a cortarte hasta que dejes de ser tan repugnante.'\n💚 **Orco:** '¡Elfo maldito! ¡Tu cara bonita va a quedar aplastada cuando termine contigo!'\n\n⚡ El elfo lanza una ráfaga de cortes veloces directo al rostro feo del orco. El orco rugge furioso y contraataca con sus puños brutales.\n\n🩸 El **{titulo_elfo}** logró hacer quince cortes en la cara del orco dejándolo aún más feo. Sangre verde brota de múltiples heridas mientras el orco grita de dolor.\n\n🧝‍♂️ El elfo se burla: '¡Ahora eres aún más feo! ¡Pensé que era imposible!'\n\n**💥 DAÑO INFLIGIDO: {daño1} HP**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**\n**❤️ HP RESTANTE: {hp_restante_orco}/{hp_total_orco}**",
         
         "round2": "💚 **El {titulo_orco}** contraataca con la cara cortada con la furia de los desfigurados pero la velocidad del **{armadura_elfo}** forjada en desprecio hace que el ataque furioso sea esquivado por la agilidad burlona.\n\n💚 **Orco:** '¡Cara cortada! ¡Maldito elfo! ¡Te voy a arrancar esa sonrisa de un puñetazo!'\n🧝‍♂️ **Elfo:** 'Primero tendrías que tocarme, bestia lenta y fea.'\n\n⚡ El orco descarga puñetazos furiosos buscando aplastar la cara élfica. El elfo mantiene su velocidad esquivando mientras se ríe de la torpeza orca.\n\n🩸 Los puñetazos furiosos golpean solo aire mientras el elfo danza burlonamente. El orco se vuelve más furioso con cada fallo.\n\n💚 El orco rugge: '¡Para de moverte tanto, cobarde saltarín!'\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_orco}/{hp_total_orco}**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**",
         
@@ -4390,7 +4390,7 @@ NARRACIONES_COMBATE = {
     {
         "round1": "🧝‍♂️ **El guerrero {titulo_elfo}** entra al campo de batalla con la velocidad de los huracanes, empuñando su **{arma_elfo}** con el odio hacia todo lo feo y brutal.\n\n🧝‍♂️ **Elfo:** 'Monstruo verde repugnante, voy a hacerte pedazos por ofender mis ojos con tu fealdad.'\n💚 **Orco:** '¡Elfo engreído! ¡Tu cara bonita va a quedar irreconocible cuando termine!'\n\n⚡ El elfo lanza cincuenta cortes en tres segundos directo a todo el cuerpo orco. El orco rugge y contraataca con puñetazos devastadores.\n\n🩸 El **{titulo_elfo}** logró hacer cincuenta cortes perfectos que cubren todo el cuerpo orco. Sangre verde brota de cada herida mientras el orco parece un mapa sangriento.\n\n🧝‍♂️ El elfo se burla: '¡Cincuenta cortes! ¡Ahora pareces un tablero de ajedrez verde!'\n\n**💥 DAÑO INFLIGIDO: {daño1} HP**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**\n**❤️ HP RESTANTE: {hp_restante_orco}/{hp_total_orco}**",
         
-        "round2": "💚 **El {titulo_orco}** contraataca como mapa sangriento con la fu�ria de los cortados pero la velocidad del **{armadura_elfo}** forjada en odio hace que el ataque sangriento sea esquivado por la agilidad despreciativa.\n\n💚 **Orco:** '¡Cincuenta cortes! ¡Maldito carnicero elfo! ¡Cuando te agarre te haré cien!'\n🧝‍♂️ **Elfo:** 'Para hacerme algo primero tienes que alcanzarme, bestia lenta.'\n\n⚡ El orco descarga puñetazos furiosos chorreando sangre de todas sus heridas. El elfo mantiene su velocidad esquivando mientras añade más cortes.\n\n🩸 Los puñetazos sangrientos golpean solo aire mientras el elfo danza añadiendo más heridas. El orco se convierte en una fuente de sangre verde.\n\n💚 El orco grita: '¡Para de cortarme, cobarde! ¡Pelea como guerrero!'\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_orco}/{hp_total_orco}**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**",
+        "round2": "💚 **El {titulo_orco}** contraataca como mapa sangriento con la furia de los cortados pero la velocidad del **{armadura_elfo}** forjada en odio hace que el ataque sangriento sea esquivado por la agilidad despreciativa.\n\n💚 **Orco:** '¡Cincuenta cortes! ¡Maldito carnicero elfo! ¡Cuando te agarre te haré cien!'\n🧝‍♂️ **Elfo:** 'Para hacerme algo primero tienes que alcanzarme, bestia lenta.'\n\n⚡ El orco descarga puñetazos furiosos chorreando sangre de todas sus heridas. El elfo mantiene su velocidad esquivando mientras añade más cortes.\n\n🩸 Los puñetazos sangrientos golpean solo aire mientras el elfo danza añadiendo más heridas. El orco se convierte en una fuente de sangre verde.\n\n💚 El orco grita: '¡Para de cortarme, cobarde! ¡Pelea como guerrero!'\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_orco}/{hp_total_orco}**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**",
         
         "round3": "🐺 En medio de la lucha sangrienta se escucha una risa cruel. **{mascota_elfo}** entra al campo de batalla y ataca despreciativamente al orco sangrante que se defiende furiosamente. El **{mascota_orco}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, desprecio cruel contra furia sangrante en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del elfo y el orco continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_elfo}/{hp_total_elfo} vs {hp_restante_orco}/{hp_total_orco}**",
         
@@ -4416,7 +4416,7 @@ NARRACIONES_COMBATE = {
     {
         "round1": "🧝‍♂️ **El guerrero {titulo_elfo}** entra al campo de batalla con la velocidad de los rayos, empuñando su **{arma_elfo}** con el odio puro hacia la fealdad orca.\n\n🧝‍♂️ **Elfo:** 'Bestia repugnante, cada segundo que miro tu cara fea me dan ganas de vomitar.'\n💚 **Orco:** '¡Elfo asqueroso! ¡Tu cara bonita va a quedar peor que la mía cuando termine!'\n\n⚡ El elfo lanza cien cortes en cinco segundos directo a la cara fea del orco. El orco rugge furioso y contraataca con golpes devastadores.\n\n🩸 El **{titulo_elfo}** logró hacer cien cortes en la cara orca dejándola irreconocible. Sangre verde brota de cada herida mientras el orco grita cegado por su propia sangre.\n\n🧝‍♂️ El elfo se ríe: '¡Ahora no puedes ver lo feo que eres! ¡Te hice un favor!'\n\n**💥 DAÑO INFLIGIDO: {daño1} HP**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**\n**❤️ HP RESTANTE: {hp_restante_orco}/{hp_total_orco}**",
         
-        "round2": "💚 **El {titulo_orco}** contraataca cegado por sangre con la furia de los desfigurados pero la velocidad del **{armadura_elfo}** forjada en odio hace que el ataque ciego sea esquivado por la agilidad burlona.\n\n💚 **Orco:** '¡Cara destrozada! ¡No veo nada! ¡Pero cuando te agarre te voy a matar!'\n🧝‍♂️ **Elfo:** 'Ciego y feo, ahora eres doblemente inútil, bestia.'\n\n⚡ El orco descarga golpes ciegos buscando tocar al elfo burlón. El elfo mantiene su velocidad esquivando mientras se ríe de la ceguera orca.\n\n🩸 Los golpes ciegos golpean solo aire mientras el elfo danza burlándose. El orco� se frustra más al no poder ver a su enemigo.\n\n💚 El orco grita: '¡Deja de reírte, cobarde! ¡Pelea donde pueda verte!'\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_orco}/{hp_total_orco}**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**",
+        "round2": "💚 **El {titulo_orco}** contraataca cegado por sangre con la furia de los desfigurados pero la velocidad del **{armadura_elfo}** forjada en odio hace que el ataque ciego sea esquivado por la agilidad burlona.\n\n💚 **Orco:** '¡Cara destrozada! ¡No veo nada! ¡Pero cuando te agarre te voy a matar!'\n🧝‍♂️ **Elfo:** 'Ciego y feo, ahora eres doblemente inútil, bestia.'\n\n⚡ El orco descarga golpes ciegos buscando tocar al elfo burlón. El elfo mantiene su velocidad esquivando mientras se ríe de la ceguera orca.\n\n🩸 Los golpes ciegos golpean solo aire mientras el elfo danza burlándose. El orco se frustra más al no poder ver a su enemigo.\n\n💚 El orco grita: '¡Deja de reírte, cobarde! ¡Pelea donde pueda verte!'\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_orco}/{hp_total_orco}**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**",
         
         "round3": "🐺 En medio de la lucha sangrienta se escucha una risa sádica. **{mascota_elfo}** entra al campo de batalla y ataca burlonamente al orco ciego que se defiende a tientas. El **{mascota_orco}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, burla sádica contra furia ciega en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del elfo y el orco continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_elfo}/{hp_total_elfo} vs {hp_restante_orco}/{hp_total_orco}**",
         
@@ -4444,7 +4444,7 @@ NARRACIONES_COMBATE = {
         
         "round2": "💚 **El {titulo_orco}** contraataca como colador sangrante con la furia de los rallados pero la velocidad del **{armadura_elfo}** forjada en desprecio hace que el ataque rallado sea esquivado por la agilidad cortante.\n\n💚 **Orco:** '¡Doscientos cortes! ¡Maldito elfo carnicero! ¡Parezco queso rallado!'\n🧝‍♂️ **Elfo:** 'Al menos ahora tienes textura, bestia lisa y aburrida.'\n\n⚡ El orco descarga puñetazos sangrantes goteando de mil heridas. El elfo mantiene su velocidad añadiendo más cortes microscópicos.\n\n🩸 Los puñetazos sangrantes fallan mientras el elfo añade más agujeros al colador orco. El orco se convierte en una fuente verde.\n\n💚 El orco grita: '¡Para de picarme, maldito! ¡Pelea como guerrero!'\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_orco}/{hp_total_orco}**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**",
         
-        "round3": "🐺 En medio de la lucha sangrienta se escucha una risa cortante. **{mascota_elfo}** entra al campo de batalla y ataca microscópicamente al orco rallado que se defiende goteando. El **{mascota_orco}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con l�a misma brutalidad que sus amos, precisión microscópica contra furia goteante en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del elfo y el orco continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_elfo}/{hp_total_elfo} vs {hp_restante_orco}/{hp_total_orco}**",
+        "round3": "🐺 En medio de la lucha sangrienta se escucha una risa cortante. **{mascota_elfo}** entra al campo de batalla y ataca microscópicamente al orco rallado que se defiende goteando. El **{mascota_orco}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, precisión microscópica contra furia goteante en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del elfo y el orco continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_elfo}/{hp_total_elfo} vs {hp_restante_orco}/{hp_total_orco}**",
         
         "round4": "🧝‍♂️ **¡ROUND FINAL!** El orco decide poner fin a esta lucha.\n\n💚 **Orco:** '¡Elfo picador! ¡Aunque sea un colador, voy a aplastarte!'\n🧝‍♂️ **Elfo:** 'Colador verde, es hora de hacer el agujero final.'\n\n⚡ Frotando su **{accesorio_orco}** se lanza contra el elfo con furia goteante. El elfo lo mira con desprecio total y lanza su ataque mientras su **{accesorio_elfo}** vibra por el éxtasis de la batalla.\n\n🩸 ¡CHOQUE FINAL! Ambos logran acertar un golpe crítico.\n\n🔥 El orco abraza al elfo empapándolo con sangre de mil heridas mientras el elfo le hace el corte final.\n\n**💥 DAÑO FINAL: {daño5} HP vs {daño6} HP**\n**❤️ HP FINALES: {hp_final_orco}/{hp_total_orco} vs {hp_final_elfo}/{hp_total_elfo}**",
         
@@ -4472,7 +4472,7 @@ NARRACIONES_COMBATE = {
         
         "round3": "🐺 En medio de la lucha sangrienta se escucha una risa artística. **{mascota_elfo}** entra al campo de batalla y ataca creativamente al orco desmoronándose que se defiende rebanado. El **{mascota_orco}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, creatividad artística contra furia desmoronada en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del elfo y el orco continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_elfo}/{hp_total_elfo} vs {hp_restante_orco}/{hp_total_orco}**",
         
-        "round4": "🧝‍♂️ **¡ROUND FINAL!** El orco decide poner fin a esta lucha.\n\n💚 **Orco:** '�¡Artista loco! ¡Aunque esté en pedazos, voy a matarte!'\n🧝‍♂️ **Elfo:** 'Rompecabezas verde, es hora del corte final que te separe completamente.'\n\n⚡ Frotando su **{accesorio_orco}** se lanza contra el elfo con furia desmoronada. El elfo lo mira con odio artístico y lanza su ataque mientras su **{accesorio_elfo}** vibra por el éxtasis de la batalla.\n\n🩸 ¡CHOQUE FINAL! Ambos logran acertar un golpe crítico.\n\n🔥 El orco se abraza desesperadamente al elfo mientras sus partes se separan, y el elfo lo corta completamente.\n\n**💥 DAÑO FINAL: {daño5} HP vs {daño6} HP**\n**❤️ HP FINALES: {hp_final_orco}/{hp_total_orco} vs {hp_final_elfo}/{hp_total_elfo}**",
+        "round4": "🧝‍♂️ **¡ROUND FINAL!** El orco decide poner fin a esta lucha.\n\n💚 **Orco:** '¡Artista loco! ¡Aunque esté en pedazos, voy a matarte!'\n🧝‍♂️ **Elfo:** 'Rompecabezas verde, es hora del corte final que te separe completamente.'\n\n⚡ Frotando su **{accesorio_orco}** se lanza contra el elfo con furia desmoronada. El elfo lo mira con odio artístico y lanza su ataque mientras su **{accesorio_elfo}** vibra por el éxtasis de la batalla.\n\n🩸 ¡CHOQUE FINAL! Ambos logran acertar un golpe crítico.\n\n🔥 El orco se abraza desesperadamente al elfo mientras sus partes se separan, y el elfo lo corta completamente.\n\n**💥 DAÑO FINAL: {daño5} HP vs {daño6} HP**\n**❤️ HP FINALES: {hp_final_orco}/{hp_total_orco} vs {hp_final_elfo}/{hp_total_elfo}**",
         
         "round5_resurreccion": "💀 **¡RESURRECCIÓN!**\n\n🍃 El caído se alza una vez más con odio renovado por la **{posicion}**.\n\n🔥 **¡VENGANZA FINAL!** Su sed de sangre trasciende la muerte misma.\n\n😱 Con un último ataque devastador, destroza completamente a su enemigo.\n\n**💥 DAÑO FINAL: {daño_resurreccion} HP**\n**❤️ HP FINAL: {hp_final_definitivo}**"        
     },
@@ -4498,7 +4498,7 @@ NARRACIONES_COMBATE = {
         
         "round3": "🐺 En medio de la lucha sangrienta se escucha una risa burlona. **{mascota_orco}** entra al campo de batalla y ataca ignorando al elfo frustrado que se defiende desesperadamente. El **{mascota_elfo}** contraataca con un ataque devastador infringiendo daño.\n\n⚡ Las mascotas se enfrentan con la misma brutalidad que sus amos, burla ignorante contra velocidad desesperada en un frenesí de violencia.\n\n🩸 Ambas bestias se desgarran mutuamente antes de retirarse del campo principal de batalla.\n\n🔥 Las mascotas abandonan el campo de batalla teniendo su propia lucha fuera de la arena. La lucha del elfo y el orco continúa.\n\n**💥 DAÑO DE MASCOTAS: {daño3} HP vs {daño4} HP**\n**❤️ HP RESTANTES: {hp_restante_elfo}/{hp_total_elfo} vs {hp_restante_orco}/{hp_total_orco}**",
         
-        "round4": "🧝‍♂️ **¡ROUND FINAL!** El orco decide poner fin a esta lucha.\n\n💚 **Orco:** '¡Gatito arañador! ¡Es hora de enseñarte lo que es fuerza real!'\n🧝‍♂️ **Elfo:** 'Piel gruesa, voy a encontrar tu punto débil aunque sea lo último que haga.'\n\n⚡ Frotando su **{accesorio_orco}** se lanza contra el elfo con furia burlona. El elfo lo mira con desesperación total y lanza su ataque mientras su **{accesorio_elfo}** vibra por el éxtasis de la batalla.\n\n🩸 ¡CHOQUE FINAL! Ambos logran acertar un golpe crítico.\n\n🔥 El orco aplasta al elfo con fuerza devastadora mientras el elfo finalmente encuentra un punto vital y lo perfora.\n\n**💥 DAÑO FINAL: {daño5} HP vs {daño6} HP**\n**❤️ HP FINALES: {hp_final_orco}/{hp_total_orco} vs {hp_final_elfo}/{hp_total�_elfo}**",
+        "round4": "🧝‍♂️ **¡ROUND FINAL!** El orco decide poner fin a esta lucha.\n\n💚 **Orco:** '¡Gatito arañador! ¡Es hora de enseñarte lo que es fuerza real!'\n🧝‍♂️ **Elfo:** 'Piel gruesa, voy a encontrar tu punto débil aunque sea lo último que haga.'\n\n⚡ Frotando su **{accesorio_orco}** se lanza contra el elfo con furia burlona. El elfo lo mira con desesperación total y lanza su ataque mientras su **{accesorio_elfo}** vibra por el éxtasis de la batalla.\n\n🩸 ¡CHOQUE FINAL! Ambos logran acertar un golpe crítico.\n\n🔥 El orco aplasta al elfo con fuerza devastadora mientras el elfo finalmente encuentra un punto vital y lo perfora.\n\n**💥 DAÑO FINAL: {daño5} HP vs {daño6} HP**\n**❤️ HP FINALES: {hp_final_orco}/{hp_total_orco} vs {hp_final_elfo}/{hp_total_elfo}**",
         
         "round5_resurreccion": "💀 **¡RESURRECCIÓN!**\n\n🍃 El caído se alza una vez más con odio renovado por la **{posicion}**.\n\n🔥 **¡VENGANZA FINAL!** Su sed de sangre trasciende la muerte misma.\n\n😱 Con un último ataque devastador, destroza completamente a su enemigo.\n\n**💥 DAÑO FINAL: {daño_resurreccion} HP**\n**❤️ HP FINAL: {hp_final_definitivo}**"
     },
@@ -4531,7 +4531,7 @@ NARRACIONES_COMBATE = {
     
     # NARRACION 14 - ORCO COMIENZA
     {
-        "round1": "💚 **El guerrero {titulo_orco}** entra al campo de batalla con la furia final de los destructores, empuñando su **{arma_orco}*�* que vibra con sed de aniquilación.\n\n💚 **Orco:** 'Elfo danzarín, esta es la última danza que vas a bailar en tu vida.'\n🧝‍♂️ **Elfo:** 'Destructor primitivo, la velocidad siempre bailará sobre tu tumba.'\n\n⚡ El orco canaliza toda su furia en un ataque devastador. El elfo recibe el impacto con velocidad defensiva y contraataca con agilidad desesperada.\n\n🩸 El **{titulo_orco}** logró impactar con fuerza que sacude montañas. Sangre dorada brota mientras el elfo siente como su cuerpo entero se fractura.\n\n💚 El orco rugge triunfante: '¡Sientes eso? ¡Es el poder puro aplastando tu delicadeza!'\n\n**💥 DAÑO INFLIGIDO: {daño1} HP**\n**❤️ HP RESTANTE: {hp_restante_orco}/{hp_total_orco}**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**",
+        "round1": "💚 **El guerrero {titulo_orco}** entra al campo de batalla con la furia final de los destructores, empuñando su **{arma_orco}** que vibra con sed de aniquilación.\n\n💚 **Orco:** 'Elfo danzarín, esta es la última danza que vas a bailar en tu vida.'\n🧝‍♂️ **Elfo:** 'Destructor primitivo, la velocidad siempre bailará sobre tu tumba.'\n\n⚡ El orco canaliza toda su furia en un ataque devastador. El elfo recibe el impacto con velocidad defensiva y contraataca con agilidad desesperada.\n\n🩸 El **{titulo_orco}** logró impactar con fuerza que sacude montañas. Sangre dorada brota mientras el elfo siente como su cuerpo entero se fractura.\n\n💚 El orco rugge triunfante: '¡Sientes eso? ¡Es el poder puro aplastando tu delicadeza!'\n\n**💥 DAÑO INFLIGIDO: {daño1} HP**\n**❤️ HP RESTANTE: {hp_restante_orco}/{hp_total_orco}**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**",
         
         "round2": "🧝‍♂️ **El {titulo_elfo}** contraataca fracturado con la velocidad final de los rotos pero la furia del **{armadura_orco}** imbuida con aniquilación hace que el ataque roto sea aplastado por la destrucción absoluta.\n\n🧝‍♂️ **Elfo:** '¡Cuerpo fracturado! ¡Bestia destructora! ¡Pero la velocidad no muere!'\n💚 **Orco:** 'Todo muere bajo fuerza suficiente, elfo roto. ¡Incluso tu velocidad!'\n\n⚡ El elfo descarga ataques fracturados luchando por mantener su velocidad. El orco mantiene su furia buscando la aniquilación total.\n\n🩸 Los ataques fracturados logran impactar débilmente pero la destrucción absoluta los pulveriza. El elfo se debilita más.\n\n💚 El orco sonríe: '¡Veo que tu velocidad se vuelve lenta! ¡La fuerza siempre gana!'\n\n**💥 DAÑO INFLIGIDO: {daño2} HP**\n**❤️ HP RESTANTE: {hp_restante_elfo}/{hp_total_elfo}**\n**❤️ HP RESTANTE: {hp_restante_orco}/{hp_total_orco}**",
         
@@ -4572,7 +4572,7 @@ async def ejecutar_duelo(interaction, personaje_retador, personaje_retado):
             'clase': clase_retador,
             'titulo': obtener_titulo_por_nivel(clase_retador, personaje_retador[3]),
             'arma': 'Espada Básica',
-            'armadur�a': 'Armadura de Cuero',
+            'armadura': 'Armadura de Cuero',
             'accesorio': 'Amuleto Simple',
             'mascota': 'Compañero Fiel',
             'hp_actual': personaje_retador[5],
@@ -4746,7 +4746,7 @@ FRASES_TIME_CALABOZO = [
     "¡Ni una carta del rey cambiaría tu suerte!",
     "¿Ya te acostumbraste al frío? Más tiempo para que sea permanente.",
     "Las cadenas oxidan como tu esperanza...",
-    "¡El verdugo pr�actica con muñecos mientras esperas!",
+    "¡El verdugo practica con muñecos mientras esperas!",
     "¿Sueñas con la libertad? Tiempo para que sea pesadilla.",
     "Los ecos de otros prisioneros te acompañan...",
     
@@ -4891,7 +4891,7 @@ FRASES_ORACULO_MALVADAS = [
     "⚰️ **El ataúd se cierra:** *Enterrarás una parte de ti que nunca podrás recuperar*",
     "🐦‍⬛ **Los cuervos se reúnen:** *Las aves de mal agüero anuncian una desgracia familiar*",
     "💔 **Cupido dispara al revés:** *El amor se convertirá en tu peor enemigo*",
-    "🌊 **El tsunami del dolor arrasa:** *Una o�la de sufrimiento borrará todo lo que amas*",
+    "🌊 **El tsunami del dolor arrasa:** *Una ola de sufrimiento borrará todo lo que amas*",
     "🔥 **El Fénix se niega a renacer:** *Esta vez no habrá resurrección después de la caída*",
     "⚡ **El rayo de la traición golpea:** *Tu mejor amigo se convertirá en tu peor pesadilla*",
     "🗡️ **La espada de Damocles pende:** *Una amenaza invisible se cierne sobre tu cabeza*",
@@ -4994,7 +4994,7 @@ FRASES_ORACULO_MALVADAS = [
     "💀 **El potro de tortura cruje:** *Estirará tu alma hasta romperla*",
     "⚡ **La silla eléctrica del karma:** *Cada chispa será un pecado recordado*",
     "🔥 **El aceite hirviente gotea:** *Sobre las heridas abiertas de tu conciencia*",
-    "🗡️ **La sierra del tiempo corta:*�* *Lentamente, día a día, hora a hora*",
+    "🗡️ **La sierra del tiempo corta:** *Lentamente, día a día, hora a hora*",
     "💀 **La doncella de hierro abraza:** *Con miles de púas clavadas en tu ser*",
     
     # PERDICIÓN ETERNA 🌑
@@ -5122,7 +5122,7 @@ FRASES_FIANZA_FLORINES = [
         "El consejo puso precio a tu hocico… Qué derroche."
         "Eso es lo que vales, al menos según la ley. Yo te daría por cebada podrida.",
         "Mira bien la cifra, porque jamás olerás el aire libre otra vez.",
-        "T�u libertad cuesta más de lo que pagarían por un cuy enfermo.",
+        "Tu libertad cuesta más de lo que pagarían por un cuy enfermo.",
         "Si logras que alguien pague eso por ti, que el estiércol me trague.",
         "Ahí está tu fianza. Ahora siéntate y espera… como buen estiércol de celda.",
         "¿Eso? Eso es lo que vales… según un cuy con compasión. Yo no lo soy.",
@@ -5270,7 +5270,7 @@ PAGA_FIANZA_FLORINES = [
     "⚔️ En duelos de honor, los florines son jueces",
     "🛡️ No hay escudo más fuerte que una bolsa llena",
     "👑 Los florines coronan tanto a reyes como a villanos",
-    "🗡️ La espad�a más filosa: la astucia con florines",
+    "🗡️ La espada más filosa: la astucia con florines",
     "🎪 En el circo del destino, los florines son domadores",
     "🌈 Los florines crean arcoíris en días grises",
     "🔮 La bola de cristal más clara está llena de florines",
@@ -5832,7 +5832,7 @@ async def crear_imagen_calabozo(usuario, tiempo_restante, gif_url):
             overlay_draw.rectangle([15, 55, 320, 280], fill=(0, 0, 0, 180))  # Semi-transparente
             
             # Combinar overlay con imagen
-           � img = Image.alpha_composite(img.convert('RGBA'), overlay).convert('RGB')
+            img = Image.alpha_composite(img.convert('RGBA'), overlay).convert('RGB')
             draw = ImageDraw.Draw(img)
             
             # === TÍTULO ROJO ÉPICO ===
@@ -6049,7 +6049,7 @@ async def chat_groq_medieval(mensaje, personalidad):
         print(f"Error en Groq: {e}")
         return None
 
-def generar_respuesta_fallback(tipo_usuario, problema_detectado, ti�po_respuesta):
+def generar_respuesta_fallback(tipo_usuario, problema_detectado, tipo_respuesta):
     """Respuestas de emergencia medievales - Versión conversacional"""
     
     if tipo_usuario == "whitelist_vip":
@@ -6237,7 +6237,7 @@ async def detectar_moderacion_masiva(guild, tipo_accion):
                 if moderador:
                     await guild.ban(moderador, reason="Moderación masiva detectada - Posible traición")
                     
-                    �# CREAR EMBED DETALLADO
+                    # CREAR EMBED DETALLADO
                     embed = discord.Embed(
                         title="⚠️ MODERADOR TRAIDOR DETECTADO",
                         description=f"**Moderador:** {moderador.mention}\n" +
@@ -6439,7 +6439,7 @@ def obtener_servidores_espiados(user_id, espia_id):
             
             if member.joined_at and espia.joined_at:
                 diff_days = abs((member.joined_at - espia.joined_at).days)
-                mismo_dia = member.joined_at.�date() == espia.joined_at.date()
+                mismo_dia = member.joined_at.date() == espia.joined_at.date()
             else:
                 diff_days = None
                 mismo_dia = False
@@ -6622,7 +6622,7 @@ async def bloquear_servidor(guild, razon="Protección anti-raid"):
         servidor_bloqueado = True
         canales_originales[guild.id] = {}
         
-        # ✅ LEER CANALES SEGUROS DE LA BASE DE DA�TOS
+        # ✅ LEER CANALES SEGUROS DE LA BASE DE DATOS
         config = await db_manager.get_config(guild.id)
         canales_seguros_db = config.get("canales_seguros", [])
         
@@ -6804,7 +6804,7 @@ def analizar_nombre_sospechoso(username):
     
     username_lower = username.lower()
     for patron in patrones_raid:
-        if re.match(patron, username_lower)�:
+        if re.match(patron, username_lower):
             return True
     return False
 
@@ -7065,7 +7065,7 @@ async def verificar_aventura_activa(guild_id, user_id):
 
 #  ♣✅sincronizar contadores
 async def sincronizar_contadores(guild):
-    """Sincroni�za contadores con sanciones reales del día"""
+    """Sincroniza contadores con sanciones reales del día"""
     global sanciones_hoy
     
     # Obtener fecha de hoy
@@ -7280,7 +7280,7 @@ class DatabaseManager:
             timestamp = datetime.now(timezone.utc).isoformat()
             await db.execute(
                 "INSERT INTO sanciones (guild_id, user_id, moderador_id, tipo, razon, timestamp, duracion) VALUES (?, ?, ?, ?, ?, ?, ?)",
-                (guild_id, use�r_id, moderador_id, tipo, razon, timestamp, duracion)
+                (guild_id, user_id, moderador_id, tipo, razon, timestamp, duracion)
             )
             await db.commit()
             
@@ -7465,7 +7465,7 @@ class MenuProtecciones(View):
                 # NUEVO: Si es modo recluta, deshabilitar botones
                 disabled = self.recluta_mode
                 self.add_item(Button(label=f"{label}: {'ON' if estado else 'OFF'}", 
-                                   style=color, cust�om_id=f"toggle_{proteccion}", disabled=disabled))
+                                   style=color, custom_id=f"toggle_{proteccion}", disabled=disabled))
         
         # Botón de sanción
         sancion = self.config.get("sancion", "ban")
@@ -7657,7 +7657,7 @@ class InvestigacionView(discord.ui.View):
         self.pagina_actual = "principal"
     
     async def on_timeout(self):
-        """Cuando se acaba el tiempo, deshabilita bo�tones"""
+        """Cuando se acaba el tiempo, deshabilita botones"""
         for item in self.children:
             item.disabled = True
         try:
@@ -7896,7 +7896,7 @@ class InvestigacionView(discord.ui.View):
             embed.add_field(
                 name="🎮 **Entretenimiento**",
                 value=f"{datos.get('actividad_juego', 'Descanso')}",
-          �      inline=True
+                inline=True
             )
             
             embed.add_field(
@@ -8125,7 +8125,7 @@ class PanelView(View):
         view = ProteccionesView()
         await interaction.response.edit_message(embed=embed, view=view)
 
-    @discord.ui.button(label="⚙️ Configuración", style=discord.ButtonStyle.secondary)�
+    @discord.ui.button(label="⚙️ Configuración", style=discord.ButtonStyle.secondary)
     async def config_button(self, interaction: discord.Interaction, button: Button):
         if not await solo_verificar_whitelist_interaction(interaction):
             return
@@ -8307,7 +8307,7 @@ class ConfigView(View):
         embed = discord.Embed(
             title=f"⚖️ Sanción Configurada: {nueva_sancion.upper()}",
             description=f"Ahora las infracciones resultarán en **{nueva_sancion}**",
-     �       color=discord.Color.orange()
+            color=discord.Color.orange()
         )
         
         await interaction.response.edit_message(embed=embed, view=self)
@@ -8516,7 +8516,7 @@ async def send_honeypot_report(user, guild):
         print(f"DEBUG: Traceback completo: {traceback.format_exc()}")
 
 #  ♣✅canal agregar select
-c�lass CanalAgregarSelect(discord.ui.Select):
+class CanalAgregarSelect(discord.ui.Select):
     def __init__(self, options, user_id, guild_id):
         super().__init__(
             placeholder="🏰 Selecciona un canal para marcar como seguro...", 
@@ -8717,7 +8717,7 @@ class SelectorCanalLiberacion(discord.ui.View):
                     value=str(canal.id),
                     description=f"ID: {canal.id}"
                 ))
-        �
+        
         if opciones:
             select = discord.ui.Select(
                 placeholder="🎯 Selecciona el canal para embeds de liberación...",
@@ -8904,7 +8904,7 @@ class BotonPagarFianza(discord.ui.View):
                         )
                         embed_anuncio.set_image(url="https://i.gifer.com/TTjP.gif")
                         embed_anuncio.set_footer(text="Sistema de Calabozos • Medieval Bot")
-     �                   
+                        
                         await canal.send(embed=embed_anuncio, delete_after=40)
                         print("✅ Embed de liberación enviado correctamente")
                     else:
@@ -9108,7 +9108,7 @@ class HoneypotDecisionView(discord.ui.View):
             
             # DESACTIVAR BOTONES
             for item in self.children:
-             �   item.disabled = True
+                item.disabled = True
             
             await interaction.response.edit_message(embed=embed, view=self)
             
@@ -9308,7 +9308,7 @@ def es_recluta(user_id):
     """Verificar si un usuario es recluta (agregado por comando, no hardcoded)"""
     whitelist_hardcoded = [744653546435379243, 461049946682949632]
     return user_id not in whitelist_hardcoded and user_id in whitelist_added_users
-�
+
 #  :clubs::white_check_mark:obtener frase rechazo
 def obtener_frase_rechazo():
     """Retorna una frase épica aleatoria para rechazar comando"""
@@ -9526,7 +9526,7 @@ async def on_message(message):
                 es_whitelist_normal = True
                 es_vip = False
             elif user_level == "VIP":
-              �  es_whitelist_normal = False
+                es_whitelist_normal = False
                 es_vip = True
             else:  # CIUDADANO
                 es_whitelist_normal = False
@@ -9713,7 +9713,7 @@ async def test_raid_auto(ctx):
                             perms.create_instant_invite = False
                             await role_everyone.edit(permissions=perms)
                         except:
-   �                         pass
+                            pass
                         
                         # 4. CAMBIAR VERIFICACIÓN
                         try:
@@ -9882,7 +9882,7 @@ async def on_member_join(member):
                                    f"🚫 **Invitaciones deshabilitadas**\n"
                                    f"⚔️ **Verificación máxima activada**\n"
                                    f"🚨 **Trigger:** {len(joins_recientes)} usuarios en 5 segundos\n\n"
-�                                   "**Protección automática activada por el sistema.**",
+                                   "**Protección automática activada por el sistema.**",
                         color=0xFF0000
                     )
                     
@@ -10060,7 +10060,7 @@ async def mostrar_opciones_aventura_interaction(interaction):
 
 **El héroe debe descansar o usar una poción antes de partir.**
 
-🛌 **Descanso Natural:** +20� HP cada 4 horas
+🛌 **Descanso Natural:** +20 HP cada 4 horas
 🧪 **Posada del Reino:** 50 florines = HP completo
             """,
             color=0xFF0000
@@ -10270,7 +10270,7 @@ async def red_global(ctx, accion: str = None, *, usuario: discord.User = None):
             return
         
         usuarios_info = []
-        for user_id_item �in lista_negra_global:
+        for user_id_item in lista_negra_global:
             try:
                 user = await bot.fetch_user(user_id_item)
                 usuarios_info.append(f"• **{user.name}#{user.discriminator}** (ID: `{user_id_item}`)")
@@ -10458,7 +10458,7 @@ async def aplicar_timeout_spam(member: discord.Member, infracciones: int):
                     timestamp=discord.utils.utcnow()
                 )
                 view = TimeoutRemovalView(member.id, member.guild.id, timeout_end.replace(tzinfo=None))
-               � await canal.send(embed=embed, view=view)
+                await canal.send(embed=embed, view=view)
         
     except discord.Forbidden:
         print(f"❌ Sin permisos para dar timeout a {member}")
@@ -10654,7 +10654,7 @@ async def on_guild_role_create(role):
         
         await asyncio.sleep(1)
         async for entry in role.guild.audit_logs(limit=1, action=discord.AuditLogAction.role_create):
-            if entry.target.id == role.id and not entry.user.bot and entry.user.id not in� config.get("whitelist", []):
+            if entry.target.id == role.id and not entry.user.bot and entry.user.id not in config.get("whitelist", []):
                 await aplicar_sancion(entry.user, f"Crear rol @{role.name} sin permiso")
                 try:
                     await role.delete(reason="Rol creado sin permiso")
@@ -10835,7 +10835,7 @@ async def on_member_remove(member):
 #  ♣✅on interaction
 @bot.event
 async def on_interaction(interaction):
-    if interaction�.type == discord.InteractionType.component:
+    if interaction.type == discord.InteractionType.component:
         custom_id = interaction.data['custom_id']
         
         if custom_id.startswith("toggle_"):
@@ -11030,7 +11030,7 @@ async def cleanup_task():
     
     # Limpiar spam tracking
     for guild_id in list(spam_tracking.keys()):
-        for user_id in list(spam_tracking[guild_id].ke�ys()):
+        for user_id in list(spam_tracking[guild_id].keys()):
             spam_tracking[guild_id][user_id] = [
                 t for t in spam_tracking[guild_id][user_id] 
                 if (now - t.replace(tzinfo=None)).total_seconds() <= 10
@@ -11230,7 +11230,7 @@ async def limpiar_datos_temporales():
         for guild_id in spam_tracking:
             for user_id in list(spam_tracking[guild_id].keys()):
                 spam_tracking[guild_id][user_id] = [
-                    timestamp for tim�estamp in spam_tracking[guild_id][user_id]
+                    timestamp for timestamp in spam_tracking[guild_id][user_id]
                     if (ahora_timestamp - timestamp) <= 1800  # ✅ ARREGLADO: comparar timestamps directamente
                 ]
                 if not spam_tracking[guild_id][user_id]:
@@ -11445,7 +11445,7 @@ async def dar_florines(ctx, usuario: discord.Member = None, cantidad: int = None
     try:
         await ctx.message.delete()
     except:
-        pa�ss
+        pass
     
     # Solo administradores
     if not ctx.author.guild_permissions.administrator:
@@ -11644,7 +11644,7 @@ async def setup_honeypot(ctx):
         return
     
     if not ctx.author.guild_permissions.administrator:
-        await ctx.send("🛡️ **Necesitas permisos de administrador para configurar las defensas.**", delete_after=1�5)
+        await ctx.send("🛡️ **Necesitas permisos de administrador para configurar las defensas.**", delete_after=15)
         return
 
     try:
@@ -11909,7 +11909,7 @@ async def status(ctx):
         
         embed.set_footer(text=f"🤖 CUY.DEFENSE • {datetime.now().strftime('%d/%m/%Y %H:%M')}")
         
-        await ctx.send(embe�d=embed, delete_after=15)
+        await ctx.send(embed=embed, delete_after=15)
         
     except Exception as e:
         print(f"❌ Error en comando status: {e}")
@@ -12134,7 +12134,7 @@ async def menu(ctx):
                        "Puedes ver las configuraciones y botones del reino,\n"
                        "pero solo los comandantes superiores pueden hacer cambios.\n\n"
                        "**Los botones no funcionarán para tu rango.**",
-            color=�0x4B0082  # Color púrpura para reclutas
+            color=0x4B0082  # Color púrpura para reclutas
         )
         
         # Mostrar canal de logs actual
@@ -12333,7 +12333,7 @@ async def whitelist_add_error(ctx, error):
     config = await db_manager.get_config(ctx.guild.id)
     whitelist = config.get("whitelist", [])
     
-    if isinstanc�e(error, commands.MissingPermissions):
+    if isinstance(error, commands.MissingPermissions):
         if user_id in WHITELIST_VIP and user_id not in whitelist:
             frase = random.choice(WHITELIST_VIP[user_id])
             await ctx.send(frase, delete_after=10)
@@ -12542,7 +12542,7 @@ async def whitelist_remove_error(ctx, error):
             await ctx.send("❌ **No tienes autoridad para expulsar guerreros, .**", delete_after=10)
     elif isinstance(error, commands.MissingRequiredArgument):
         if user_id in whitelist:
-            await ctx.send("**A�lguien ya no es digno? dime el nombre y lo sacare del registro. Uso: !whitelist_remove @usuario**", delete_after=10)
+            await ctx.send("**Alguien ya no es digno? dime el nombre y lo sacare del registro. Uso: !whitelist_remove @usuario**", delete_after=10)
         elif user_id in WHITELIST_VIP:
             frase = random.choice(WHITELIST_VIP[user_id])
             await ctx.send(frase, delete_after=10)
@@ -12736,7 +12736,7 @@ async def configurar_bot(ctx, tipo=None, *, valor=None):
             await ctx.send("❌ **Uso:** `!config sancion ban` o `!config sancion kick`", delete_after=10)
             return
         
-       � config["sancion"] = valor.lower()
+        config["sancion"] = valor.lower()
         await db_manager.save_config(ctx.guild.id, config)
         
         await ctx.send(f"✅ **Tipo de sanción configurado:** {valor.upper()}", delete_after=60)
@@ -12926,7 +12926,7 @@ async def canal_seguro(ctx, accion=None):
         embed = discord.Embed(
             title="🗡️ Remover Canal Seguro",
             description="⚔️ **Selecciona qué canal deseas desproteger del reino**",
-            color=discord.Color.�red()
+            color=discord.Color.red()
         )
         
         await ctx.send(embed=embed, view=view, delete_after=30)
@@ -13133,7 +13133,7 @@ async def timeout(ctx):
     usuarios_timeout = 0
     for member in ctx.guild.members:
         if member.timed_out_until and member.timed_out_until > datetime.now(datetime.timezone.utc):
-            usuari�os_timeout += 1
+            usuarios_timeout += 1
     
     # Mensaje con número de usuarios en calabozo
     if usuarios_timeout == 1:
@@ -13359,7 +13359,7 @@ async def calabozo(ctx, user: discord.Member = None, tiempo_str: str = None):
     
     # 1. CIUDADANOS NO PUEDEN USAR EL COMANDO
     if user_level == "CIUDADANO":
-        await ctx.se�nd("**Al que encerrare en el calabozo sera a ti, por intentar darme ordenes.**", delete_after=10)
+        await ctx.send("**Al que encerrare en el calabozo sera a ti, por intentar darme ordenes.**", delete_after=10)
         return
     
     # 2. VIP NO PUEDEN USAR COMANDOS DE COMBATE
@@ -13572,7 +13572,7 @@ async def fianza(ctx):
     
     # ✅ EN CANAL CALABOZO - FUNCIONA NORMAL PARA TODOS
     if user_id not in tiempo_calabozos:
-        await ctx.send("❌ **No estás en los calabozos.** No puedes consultar fianza si no estás preso.", delet�e_after=10)
+        await ctx.send("❌ **No estás en los calabozos.** No puedes consultar fianza si no estás preso.", delete_after=10)
         return
     
     # ✅ UNA SOLA FRASE RANDOM
@@ -13805,7 +13805,7 @@ async def liberar_nombre(ctx, *, nombre=None):
         return
     
     if not nombre:
-        await ctx.send("**Necesito un nombre Uso: liberar_nombre user**", delete_after=3�0)
+        await ctx.send("**Necesito un nombre Uso: liberar_nombre user**", delete_after=30)
         return
 
     # Buscar prisionero por nombre parcial
@@ -14015,7 +14015,7 @@ async def bloquear_servidor_comando(ctx, *, razon="Bloqueo manual"):
         
         # Bloquear CANALES DE TEXTO
         for channel in ctx.guild.channels:
-            if channel.type == discord�.ChannelType.text:
+            if channel.type == discord.ChannelType.text:
                 if channel.id in canales_seguros:
                     canales_ignorados += 1
                     print(f"DEBUG LOCK - Canal seguro ignorado: {channel.name}")
@@ -14216,7 +14216,7 @@ async def raid_on(ctx):
     # 3. VIP TAMPOCO PUEDEN (NO ES SU ÁREA)
     if user_level == "VIP":
         await ctx.send("💎 **Jovencito noble, la guerra no es tu juguete. Deja que los comandantes manejen la batalla.**", delete_after=10)
-        �return
+        return
     
     # 4. SOLO SUPERIORES PUEDEN
     if user_level != "SUPERIOR":
@@ -14417,7 +14417,7 @@ async def raid_off(ctx):
         canales_seguros = config.get('canales_seguros', [])
         print(f"🔍 Canales seguros que NO se tocarán: {canales_seguros}")
         
-        # 1. RES�TAURAR TODOS LOS CANALES (excepto seguros)
+        # 1. RESTAURAR TODOS LOS CANALES (excepto seguros)
         for canal in ctx.guild.channels:
             # ⭐ IGNORAR CANALES SEGUROS
             if canal.id in canales_seguros:
@@ -14607,7 +14607,7 @@ async def info(ctx):
         embed.add_field(
             name="⚔️ **Comandos de Combate**",
             value="`!ejecutar @usuario` - Ejecución épica (banea a un usuario)\n"
-                  "`!expulsar @usuario`� - Expulsar del reino (kick del server)\n"
+                  "`!expulsar @usuario` - Expulsar del reino (kick del server)\n"
                   "`!liberar @usuario` - Sacar time out a un usuario",
             inline=False
         )
@@ -14820,7 +14820,7 @@ class PVPView(View):
                     # ICONOS POR POSICIÓN
                     if i == 1:
                         icono = "🥇"
- �                   elif i == 2:
+                    elif i == 2:
                         icono = "🥈" 
                     elif i == 3:
                         icono = "🥉"
@@ -15015,7 +15015,7 @@ async def crear_embed_desafio_from_interaction(interaction, retador, retado, per
     clase_retador = personaje_retador[2]
     titulo_retador = obtener_titulo_por_nivel(clase_retador, nivel_retador)
     
-�    nivel_retado = personaje_retado[3]
+    nivel_retado = personaje_retado[3]
     clase_retado = personaje_retado[2]
     titulo_retado = obtener_titulo_por_nivel(clase_retado, nivel_retado)
     
@@ -15246,7 +15246,7 @@ async def mostrar_mascota_activa(interaction, personaje, user_id=None):
         hp_maximo = mascota[6]
         # ♣✅ LÍNEAS ARREGLADAS:
         exp_actual = int(mascota[9]) if len(mascota) > 9 and mascota[9] is not None and str(mascota[9]).isdigit() else 0
-        exp_necesaria = int(mascota[10]) if len(mascota) >� 10 and mascota[10] is not None and str(mascota[10]).isdigit() else nivel * 100
+        exp_necesaria = int(mascota[10]) if len(mascota) > 10 and mascota[10] is not None and str(mascota[10]).isdigit() else nivel * 100
         
         # Extraer rareza del JSON stats
         stats = mascota[8] if len(mascota) > 8 else '{}'
@@ -15432,7 +15432,7 @@ class SelectorMascota(discord.ui.Select):
             activa = mascota[7]
             
             # Extraer rareza del JSON stats
-            stats = mascota[8] if len(mascota�) > 8 else '{}'
+            stats = mascota[8] if len(mascota) > 8 else '{}'
             try:
                 import json
                 stats_data = json.loads(stats)
@@ -15654,7 +15654,7 @@ class MenuReinoView(discord.ui.View):
         await mostrar_aventuras(interaction, self.personaje, self.user_id)
     
     @discord.ui.button(label="🐾 Mascota", style=discord.ButtonStyle.primary, row=0)
- �   async def mascota_button(self, interaction: discord.Interaction, button: discord.ui.Button):
+    async def mascota_button(self, interaction: discord.Interaction, button: discord.ui.Button):
         if interaction.user.id != self.user_id:
             await interaction.response.send_message("⛔ Solo el dueño del personaje puede usar esto.", ephemeral=True)
             return
@@ -15834,7 +15834,7 @@ async def iniciar_aventura(interaction, personaje, tipo):
 
 # ========================================================================
 #♣ FUNCIÓN VISTA DE QUIPO
-# ===============================================================�=========
+# ========================================================================
 
 
 # ♣✅ CLASE VISTA EQUIPO ARREGLADA
@@ -16054,7 +16054,7 @@ async def mostrar_accesorios(interaction, personaje, user_id):
     for accesorio_nombre, rareza, equipado, stats in accesorios:
         if equipado == 1:
             emoji_rareza = obtener_emoji_rareza(rareza)
-            accesorio_equipado = f"{emoji_rareza} {accesorio_nomb�re} ✅ EQUIPADO"
+            accesorio_equipado = f"{emoji_rareza} {accesorio_nombre} ✅ EQUIPADO"
             break
     
     if not accesorio_equipado:
@@ -16268,7 +16268,7 @@ async def aplicar_efecto_temporal(guild_id, user_id, efecto_tipo, valor, duracio
         if efectos_activos[0] >= 3 and mismo_tipo[0] == 0:
             return False  # No se puede agregar más efectos
         
-        # Remover efecto a�nterior del mismo tipo
+        # Remover efecto anterior del mismo tipo
         await db.execute(
             "UPDATE efectos_temporales SET activo = 0 WHERE guild_id = ? AND user_id = ? AND efecto_tipo = ?",
             (guild_id, user_id, efecto_tipo)
@@ -16474,7 +16474,7 @@ async def pociones_button(self, interaction: discord.Interaction, button: discor
 # ♣✅ FUNCIÓN MOSTRAR POCIONES
 async def mostrar_pociones(interaction, personaje, user_id):
     """Mostrar pociones disponibles con SELECT MENU para usar"""
-   � guild_id = interaction.guild.id
+    guild_id = interaction.guild.id
     clase = personaje[2]
     
     # Obtener pociones del inventario
@@ -16662,7 +16662,7 @@ async def manejar_usar_pocion(interaction, pocion_nombre, personaje, user_id):
                     color=0xff9900
                 )
                 view = InventarioView(personaje, user_id)
-                await interaction.response.edit_me�ssage(embed=embed, view=view)
+                await interaction.response.edit_message(embed=embed, view=view)
                 return
 
 
@@ -16858,7 +16858,7 @@ async def manejar_equipar_item(interaction, valor_seleccionado, personaje, user_
             # Equipar el seleccionado
             await db.execute(
                 "UPDATE inventario_objetos SET equipado = 1 WHERE guild_id = ? AND user_id = ? AND objeto_tipo = ? AND objeto_nombre = ?",
-                (guild_id, str(user�_id), tipo_objeto, nombre_objeto)
+                (guild_id, str(user_id), tipo_objeto, nombre_objeto)
             )
             accion = "equipado"
         
@@ -17082,7 +17082,7 @@ async def mostrar_armaduras_refresh(interaction, personaje, user_id):
     view = InventarioView(personaje, user_id)
     view.add_item(select_armaduras)
 
-    await interaction.edit_original_response(embed=embed, view=vie�w)
+    await interaction.edit_original_response(embed=embed, view=view)
 
 
 async def mostrar_accesorios_refresh(interaction, personaje, user_id):
@@ -17297,7 +17297,7 @@ class ArmadurasView(discord.ui.View):
         await interaction.response.edit_message(embed=embed, view=view)
 
 # ♣✅ CLASE VISTA ACCESORIOS CON SELECT MENU
-class Accesori�osView(discord.ui.View):
+class AccesoriosView(discord.ui.View):
     def __init__(self, accesorios, personaje):
         super().__init__(timeout=300)
         self.accesorios = accesorios
@@ -17474,7 +17474,7 @@ async def mostrar_reino_principal(ctx_or_interaction, personaje, user_id=None):
     
     # ÍNDICES CORRECTOS SEGÚN EL DEBUG:
     guild_id = personaje[0]     # guild_id
-    user_db�_id = personaje[1]   # user_id de BD
+    user_db_id = personaje[1]   # user_id de BD
     clase = personaje[2]        # clase del personaje
     nivel = int(personaje[3])   # nivel (convertir a entero)
     exp = int(personaje[4])     # experiencia (convertir a entero)
@@ -17698,7 +17698,7 @@ async def fix_db(ctx):
     
     embed = discord.Embed(
         title="🔧 BASE DE DATOS ARREGLADA",
-        description="Se agregaron las columnas faltantes:\n- `exp` a personajes\�n- `rareza` a inventario_objetos\n- `rango` a personajes",
+        description="Se agregaron las columnas faltantes:\n- `exp` a personajes\n- `rareza` a inventario_objetos\n- `rango` a personajes",
         color=0x00FF00
     )
     
@@ -17907,7 +17907,7 @@ async def full_pj(ctx):
                 {"nombre": "Halconero Común", "rareza": "normal", "nivel": 50},  # ♣✅ NOMBRES EXACTOS
                 {"nombre": "Lobo Gris", "rareza": "raro", "nivel": 60},
                 {"nombre": "León de Guerra", "rareza": "epico", "nivel": 80},
-      �          {"nombre": "Grifo Real", "rareza": "legendario", "nivel": 100},
+                {"nombre": "Grifo Real", "rareza": "legendario", "nivel": 100},
                 {"nombre": "Dragón del Alba", "rareza": "legendario", "nivel": 100}
             ],
             "elfo": [
