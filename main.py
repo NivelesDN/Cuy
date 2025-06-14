@@ -5625,7 +5625,7 @@ async def aplicar_timeout_spam(member: discord.Member, infracciones: int):
             if canal:
                 embed = discord.Embed(
                     title="⚠️ Timeout por Spam",
-                    desc�ription=f"**Usuario:** {member.mention} ({member.display_name})\n**Duración:** {timeout_label}\n**Infracción:** #{infracciones}",
+                    description=f"**Usuario:** {member.mention} ({member.display_name})\n**Duración:** {timeout_label}\n**Infracción:** #{infracciones}",
                     color=discord.Color.orange(),
                     timestamp=discord.utils.utcnow()
                 )
