@@ -11033,7 +11033,7 @@ async def cleanup_task():
         for user_id in list(spam_tracking[guild_id].keys()):
             spam_tracking[guild_id][user_id] = [
                 t for t in spam_tracking[guild_id][user_id] 
-                if (now.timestamp() - t.timestamp()) <= 10
+                if (now.timestamp() - (t.timestamp() if hasattr(t, 'timestamp') else t.replace(tzinfo=timezone.utc).timestamp())) <= 10
             ]
             if not spam_tracking[guild_id][user_id]:
                 del spam_tracking[guild_id][user_id]
