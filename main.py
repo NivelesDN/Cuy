@@ -5412,7 +5412,7 @@ async def handle_toggle_interaction(interaction, custom_id):
         # VERIFICAR PERMISOS CON SISTEMA UNIFICADO
         user_level = get_user_level(interaction.user.id, interaction.guild.id)
         
-    �    # 1. CIUDADANOS NO PUEDEN
+         # 1. CIUDADANOS NO PUEDEN
         if user_level == "CIUDADANO":
             await interaction.response.send_message(
                 "🏰 **Solo los nobles pueden manejar las defensas del reino.**", 
