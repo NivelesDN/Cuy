@@ -9469,10 +9469,10 @@ async def on_message(message):
                 # APLICAR TIMEOUT USANDO TU FUNCIÓN EXISTENTE
                 await aplicar_timeout_spam(message.author, count)
                 
-                # ELIMINAR MENSAJES DE SPAM
+                # ELIMINAR MENSAJES DE SPAM - ✅ ARREGLADO
                 try:
                     async for msg in message.channel.history(limit=20):
-                        if msg.author.id == user_id and (ahora - msg.created_at.replace(tzinfo=None)).total_seconds() <= 30:
+                        if msg.author.id == user_id and hasattr(msg.created_at, 'timestamp') and (ahora.timestamp() - msg.created_at.timestamp()) <= 30:
                             await msg.delete()
                 except:
                     pass
